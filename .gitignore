@@ -27,8 +27,7 @@ dist/
 node_modules/
 .next/
 _next/
-
-# --- Projeto ---
+_old/
 data/
 EOF
 
