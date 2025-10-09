@@ -1,0 +1,34 @@
+cat > .gitignore << 'EOF'
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# venv / env
+.venv/
+env/
+venv/
+.env
+
+# SO / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Build / dist
+build/
+dist/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# --- Node/Next ---
+node_modules/
+.next/
+_next/
+
+# --- Projeto ---
+data/
+EOF
+
