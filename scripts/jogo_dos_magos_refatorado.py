@@ -110,23 +110,62 @@ class Batalha:
         self.vencedor = None
 
     def ordem_jogadores(self):
-        pass
+        ordem = random.sample([self.p1, self.p2], k=2)
+        return ordem
 
-    def turno_especial(self):
+    def turno_especial(self, turno):
         '''
         A cada n rodadas, os jogadores perder vida e recebem mana
         '''
+        if turno % 5 == 0:
+            self.p1.mana += 2
+            self.p2.mana += 2
+            self.p1.vida -= 2
+            self.p2.vida -= 2
+            print(f"\nRecuperação de mana e perda de vida no turno {turno}!")
 
     def aplicar_ataque(self):
-        pass
+        jogadores = self.ordem_jogadores()
+        for atacante, alvo in ((jogadores[0], jogadores[1]), (jogadores[1], jogadores[0])):
+            # Ataque p1
+            # vida_alvo_antes = alvo.vida
+            atacante.atacar(alvo)
+            # dano = max(0, vida_alvo_antes - alvo.vida)
+
+            if not alvo.esta_vivo():
+                return True # se alguém morre, encerra o turno
+        return False
 
     def imprimir_status(self):
-        pass
+        print(f"{self.p1.nome} -> Vida: {self.p1.vida:.2f} | Mana: {self.p1.mana}")
+        print(f"{self.p2.nome} -> Vida: {self.p2.vida:.2f} | Mana: {self.p2.mana}")
+
+    def get_vencedor(self):
+        if self.p1.esta_vivo() and not self.p2.esta_vivo():
+            return self.p1.nome
+        elif self.p2.esta_vivo() and not self.p1.esta_vivo():
+            return self.p2.nome
+        else:
+            return "Empate"
 
     def run(self):
         turno = 1
-        # while ...
-        # j = aplicar_ataque()
+        while self.p1.esta_vivo() and self.p2.esta_vivo():
+            # A cada 5 rodadas, jogadores recuperam 2 de mana e perdem 2 de vida
+            self.turno_especial(turno)
+
+            print(f"\n--- Turno {turno} ---")
+
+            # Ordena aleatoriamente uma lista de jogadores
+            alguem_morreu = self.aplicar_ataque()
+            if alguem_morreu:
+                break
+            
+            turno += 1
+            time.sleep(self.delay)
+
+        self.vencedor = self.get_vencedor()
+        print('\nO Vencedor do jogo é: ', self.vencedor)
         return self.vencedor
 
 
@@ -135,7 +174,7 @@ p1 = MagoFogo("Arkon", vida=120, mana=40)
 p2 = MagoGelo("Frost", vida=120,  mana=60)
 
 batalha = Batalha(p1, p2)
-# 
+batalha.run()
 
 
 
