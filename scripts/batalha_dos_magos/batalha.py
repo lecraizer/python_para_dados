@@ -81,9 +81,13 @@ class Batalha:
         return self.vencedor
 
     def to_dataframe(self):
+        '''
+        Salva os logs da batalha em arquivos CSV.
+        '''
         df_logs = pd.DataFrame(self.logs)
-        Path("output").mkdir(parents=True, exist_ok=True) # cria pasta se nao existir
         if self.save_output:
+            if not Path("output").exists():
+                Path("output").mkdir()
             df_logs.to_csv("output/logs_batalha.csv", index=False) # salva logs detalhados
             if not df_logs.empty:
                 summary = df_logs.pivot_table(index="atacante", values="dano", aggfunc=["count", "sum"])
