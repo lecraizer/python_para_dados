@@ -1,0 +1,11 @@
+turno,atacante,alvo,dano,vida_alvo_pos,mana_atacante_pos
+1,Saruman,Gandalf,14,86,42
+1,Gandalf,Saruman,23,77,40
+2,Gandalf,Saruman,26,51,30
+2,Saruman,Gandalf,16,70,34
+3,Gandalf,Saruman,12,39,20
+3,Saruman,Gandalf,10,60,26
+4,Gandalf,Saruman,22,17,10
+4,Saruman,Gandalf,20,40,18
+5,Saruman,Gandalf,11,27,12
+5,Gandalf,Saruman,29,-14,2

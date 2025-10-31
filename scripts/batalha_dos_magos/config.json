@@ -1,0 +1,10 @@
+{
+  "mago1": "MagoFogo",
+  "nome1": "Gandalf",
+  "mago2": "MagoGelo",
+  "nome2": "Saruman",
+  "delay": 0.8,
+  "verbose": true,
+  "status_period": 5,
+  "save_output": true
+}
