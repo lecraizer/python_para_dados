@@ -1,0 +1,1001 @@
+id_pedido,nome_cliente,nome_restaurante,bairro,item,categoria,preco,avaliacao
+1,Ana,Borogodó Lanches,Centro,Guaraná,bebida,8.35,1
+2,Bruno,Sabor & Cia,Rio Comprido,Refrigerante Lata,bebida,5.45,2
+3,João,Casa Nordestina,Catete,Risoto de Camarão,prato,27.95,5
+4,Pedro,La Pasta,Botafogo,Milkshake de Chocolate,bebida,9.17,1
+5,Rafa,Rio Sushi,Flamengo,Água com Gás,bebida,7.33,3
+6,Ana,Sabor & Cia,Rio Comprido,Suco de Laranja,bebida,10.38,3
+7,Fernanda,Cantinho Mineiro,Laranjeiras,Strogonoff,prato,38.38,1
+8,Pedro,Sabor & Cia,Rio Comprido,Milkshake de Chocolate,bebida,18.28,3
+9,Fernanda,La Pasta,Botafogo,Prato Feito,prato,46.45,3
+10,Ana,La Pasta,Botafogo,Feijoada,prato,31.12,3
+11,Rafa,Veg & Tal,Copacabana,Guaraná,bebida,15.05,1
+12,Fernanda,Trem da Tijuca,Tijuca,Cheeseburger,prato,38.49,3
+13,Bruno,La Pasta,Botafogo,Refrigerante Lata,bebida,8.44,1
+14,Marina,Rio Sushi,Flamengo,Suco de Laranja,bebida,8.16,5
+15,Marina,La Pasta,Botafogo,Chá Gelado,bebida,18.27,4
+16,Rafa,Cantinho Mineiro,Laranjeiras,Pizza Mussarela,prato,49.8,5
+17,Carla,Empório das Massas,Ipanema,Milkshake de Chocolate,bebida,10.99,2
+18,Rafa,Casa Nordestina,Catete,Suco de Laranja,bebida,16.34,1
+19,Rafa,Trem da Tijuca,Tijuca,Milkshake de Chocolate,bebida,5.95,4
+20,Fernanda,Bistrô Carioca,Leblon,Café Expresso,bebida,17.91,1
+21,Ana,Casa Nordestina,Catete,Água sem Gás,bebida,6.67,4
+22,Rafa,Bistrô Carioca,Leblon,Strogonoff,prato,55.03,3
+23,Bruno,Trem da Tijuca,Tijuca,Salada Caesar,prato,45.01,5
+24,Fernanda,La Pasta,Botafogo,Filé de Frango,prato,50.5,5
+25,Bruno,Borogodó Lanches,Centro,Cerveja Long Neck,bebida,5.29,3
+26,Carla,La Pasta,Botafogo,Pizza Mussarela,prato,55.12,1
+27,Ana,Bistrô Carioca,Leblon,Tapioca de Queijo,prato,41.31,2
+28,Rafa,Bistrô Carioca,Leblon,Pizza Calabresa,prato,41.11,5
+29,Pedro,La Pasta,Botafogo,Strogonoff,prato,32.47,3
+30,Paula,Casa Nordestina,Catete,Suco de Laranja,bebida,8.72,1
+31,Marina,Borogodó Lanches,Centro,Yakissoba,prato,28.81,1
+32,Luis,La Pasta,Botafogo,Prato Feito,prato,54.39,1
+33,Bruno,La Pasta,Botafogo,Cerveja Long Neck,bebida,8.21,2
+34,Fernanda,Empório das Massas,Ipanema,Guaraná,bebida,16.77,4
+35,João,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,37.24,4
+36,Pedro,Bistrô Carioca,Leblon,Nhoque ao Sugo,prato,46.14,1
+37,Luis,Rio Sushi,Flamengo,Suco de Laranja,bebida,8.73,2
+38,Bruno,Bistrô Carioca,Leblon,Feijoada,prato,27.34,4
+39,João,Sabor & Cia,Rio Comprido,Café Expresso,bebida,6.47,5
+40,Luis,Sabor & Cia,Rio Comprido,Cheeseburger,prato,36.26,4
+41,João,Rio Sushi,Flamengo,Cheeseburger,prato,35.16,4
+42,Carla,Bistrô Carioca,Leblon,Chá Gelado,bebida,15.45,5
+43,Paula,Trem da Tijuca,Tijuca,Pizza Calabresa,prato,28.71,1
+44,Fernanda,Casa Nordestina,Catete,Strogonoff,prato,32.54,1
+45,Fernanda,Bistrô Carioca,Leblon,Prato Feito,prato,58.43,1
+46,Rafa,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,54.47,4
+47,Ana,Empório das Massas,Ipanema,Yakissoba,prato,43.78,5
+48,Ana,Rio Sushi,Flamengo,Água com Gás,bebida,8.06,3
+49,João,Cantinho Mineiro,Laranjeiras,Suco de Uva,bebida,15.08,3
+50,Paula,Veg & Tal,Copacabana,Prato Feito,prato,38.33,5
+51,Ana,Sabor & Cia,Rio Comprido,Risoto de Camarão,prato,30.61,3
+52,Ana,La Pasta,Botafogo,Água com Gás,bebida,7.37,5
+53,Carla,Empório das Massas,Ipanema,Nhoque ao Sugo,prato,52.68,3
+54,Ana,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,18.35,5
+55,Rafa,Cantinho Mineiro,Laranjeiras,Milkshake de Chocolate,bebida,8.16,3
+56,João,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,18.58,1
+57,Ana,Rio Sushi,Flamengo,Refrigerante Lata,bebida,5.05,2
+58,Carla,Trem da Tijuca,Tijuca,Café Expresso,bebida,15.59,5
+59,Luis,Sabor & Cia,Rio Comprido,Strogonoff,prato,56.16,5
+60,Luis,Veg & Tal,Copacabana,Feijoada,prato,25.1,3
+61,Marina,Borogodó Lanches,Centro,Guaraná,bebida,15.23,1
+62,Marina,Casa Nordestina,Catete,Milkshake de Chocolate,bebida,16.24,2
+63,Rafa,Trem da Tijuca,Tijuca,Refrigerante Lata,bebida,7.69,3
+64,Pedro,La Pasta,Botafogo,Suco de Uva,bebida,16.81,1
+65,Pedro,Borogodó Lanches,Centro,Guaraná,bebida,7.99,4
+66,Marina,Cantinho Mineiro,Laranjeiras,Pizza Mussarela,prato,20.95,2
+67,Pedro,Veg & Tal,Copacabana,Suco de Laranja,bebida,19.5,3
+68,Marina,Casa Nordestina,Catete,Café Expresso,bebida,9.97,1
+69,Ana,Cantinho Mineiro,Laranjeiras,Yakissoba,prato,58.5,3
+70,Luis,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,15.93,3
+71,Pedro,Empório das Massas,Ipanema,Feijoada,prato,55.98,2
+72,Carla,Borogodó Lanches,Centro,Refrigerante Lata,bebida,12.8,5
+73,João,Veg & Tal,Copacabana,Suco de Laranja,bebida,19.23,3
+74,Fernanda,Veg & Tal,Copacabana,Strogonoff,prato,56.0,5
+75,Carla,Rio Sushi,Flamengo,Chá Gelado,bebida,15.46,5
+76,Rafa,La Pasta,Botafogo,Chá Gelado,bebida,15.16,2
+77,Fernanda,Empório das Massas,Ipanema,Chá Gelado,bebida,13.22,1
+78,Carla,Cantinho Mineiro,Laranjeiras,Feijoada,prato,51.43,5
+79,Marina,Bistrô Carioca,Leblon,Cerveja Long Neck,bebida,15.13,5
+80,Paula,Trem da Tijuca,Tijuca,Pizza Calabresa,prato,40.62,5
+81,Marina,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,32.42,2
+82,Rafa,Borogodó Lanches,Centro,Pizza Mussarela,prato,59.36,5
+83,Ana,Bistrô Carioca,Leblon,Milkshake de Chocolate,bebida,7.92,4
+84,Paula,Rio Sushi,Flamengo,Cheeseburger,prato,46.24,1
+85,Ana,Rio Sushi,Flamengo,Cheeseburger,prato,52.16,5
+86,Paula,Borogodó Lanches,Centro,Salada Caesar,prato,24.85,2
+87,Paula,Casa Nordestina,Catete,Cerveja Long Neck,bebida,14.19,5
+88,Pedro,Casa Nordestina,Catete,Suco de Uva,bebida,16.15,4
+89,Paula,Cantinho Mineiro,Laranjeiras,Salada Caesar,prato,45.51,5
+90,Paula,La Pasta,Botafogo,Cerveja Long Neck,bebida,6.16,3
+91,João,Cantinho Mineiro,Laranjeiras,Água sem Gás,bebida,18.4,1
+92,Rafa,Trem da Tijuca,Tijuca,Feijoada,prato,47.76,2
+93,Ana,Rio Sushi,Flamengo,Água sem Gás,bebida,13.14,4
+94,Luis,La Pasta,Botafogo,Chá Gelado,bebida,18.57,5
+95,Luis,Empório das Massas,Ipanema,Cerveja Long Neck,bebida,5.09,3
+96,Carla,Rio Sushi,Flamengo,Café Expresso,bebida,16.21,5
+97,Fernanda,La Pasta,Botafogo,Guaraná,bebida,9.09,4
+98,Luis,Rio Sushi,Flamengo,Chá Gelado,bebida,15.86,4
+99,Rafa,Empório das Massas,Ipanema,Feijoada,prato,43.68,1
+100,Ana,Rio Sushi,Flamengo,Salada Caesar,prato,38.47,1
+101,Carla,Rio Sushi,Flamengo,Guaraná,bebida,11.82,3
+102,Pedro,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,17.52,4
+103,Luis,Casa Nordestina,Catete,Filé de Frango,prato,28.97,1
+104,Luis,Borogodó Lanches,Centro,Pizza Mussarela,prato,53.57,5
+105,Rafa,La Pasta,Botafogo,Lasanha,prato,46.78,5
+106,João,Bistrô Carioca,Leblon,Água sem Gás,bebida,7.52,5
+107,Ana,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,13.68,3
+108,Fernanda,Rio Sushi,Flamengo,Guaraná,bebida,6.14,2
+109,Ana,Cantinho Mineiro,Laranjeiras,Tapioca de Queijo,prato,59.35,1
+110,Marina,Casa Nordestina,Catete,Água sem Gás,bebida,6.03,3
+111,Luis,Rio Sushi,Flamengo,Suco de Laranja,bebida,11.5,3
+112,Paula,Trem da Tijuca,Tijuca,Suco de Uva,bebida,16.01,3
+113,Fernanda,Casa Nordestina,Catete,Cerveja Long Neck,bebida,11.53,5
+114,Carla,Veg & Tal,Copacabana,Salada Caesar,prato,57.38,3
+115,Paula,La Pasta,Botafogo,Milkshake de Chocolate,bebida,14.15,4
+116,Marina,Borogodó Lanches,Centro,Água sem Gás,bebida,7.73,2
+117,Marina,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,18.2,3
+118,Bruno,Borogodó Lanches,Centro,Hambúrguer da Casa,prato,29.65,4
+119,Paula,Casa Nordestina,Catete,Strogonoff,prato,39.04,4
+120,Paula,Borogodó Lanches,Centro,Pizza Calabresa,prato,28.86,2
+121,Carla,Empório das Massas,Ipanema,Cerveja Long Neck,bebida,13.3,3
+122,Pedro,Casa Nordestina,Catete,Água sem Gás,bebida,15.54,3
+123,Carla,Cantinho Mineiro,Laranjeiras,Hambúrguer da Casa,prato,48.85,3
+124,Ana,Casa Nordestina,Catete,Pizza Mussarela,prato,28.66,4
+125,Carla,Empório das Massas,Ipanema,Suco de Laranja,bebida,17.49,3
+126,João,Veg & Tal,Copacabana,Pizza Calabresa,prato,20.57,5
+127,Rafa,Cantinho Mineiro,Laranjeiras,Prato Feito,prato,42.13,2
+128,Paula,Sabor & Cia,Rio Comprido,Yakissoba,prato,31.37,4
+129,Paula,Veg & Tal,Copacabana,Prato Feito,prato,30.1,4
+130,Ana,Sabor & Cia,Rio Comprido,Cerveja Long Neck,bebida,6.11,1
+131,Rafa,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,19.91,1
+132,Bruno,Rio Sushi,Flamengo,Tapioca de Queijo,prato,40.9,4
+133,Paula,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,13.53,1
+134,Fernanda,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,28.44,1
+135,Rafa,La Pasta,Botafogo,Risoto de Camarão,prato,23.0,1
+136,Pedro,Bistrô Carioca,Leblon,Água com Gás,bebida,5.49,3
+137,Carla,Bistrô Carioca,Leblon,Nhoque ao Sugo,prato,29.34,3
+138,Fernanda,La Pasta,Botafogo,Suco de Laranja,bebida,13.17,2
+139,Carla,Trem da Tijuca,Tijuca,Prato Feito,prato,26.64,3
+140,Fernanda,Empório das Massas,Ipanema,Cerveja Long Neck,bebida,6.87,3
+141,Pedro,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,6.21,1
+142,Pedro,Veg & Tal,Copacabana,Refrigerante Lata,bebida,6.37,5
+143,Fernanda,Borogodó Lanches,Centro,Milkshake de Chocolate,bebida,5.6,2
+144,Paula,Casa Nordestina,Catete,Água com Gás,bebida,7.72,5
+145,Pedro,Bistrô Carioca,Leblon,Lasanha,prato,33.92,3
+146,Marina,Sabor & Cia,Rio Comprido,Filé de Frango,prato,36.47,4
+147,Carla,Rio Sushi,Flamengo,Lasanha,prato,23.52,3
+148,Marina,Sabor & Cia,Rio Comprido,Café Expresso,bebida,17.37,1
+149,Bruno,Bistrô Carioca,Leblon,Refrigerante Lata,bebida,7.81,3
+150,Fernanda,Bistrô Carioca,Leblon,Refrigerante Lata,bebida,8.05,5
+151,Rafa,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,6.82,5
+152,João,Trem da Tijuca,Tijuca,Café Expresso,bebida,5.21,4
+153,Ana,La Pasta,Botafogo,Lasanha,prato,57.88,2
+154,Paula,Cantinho Mineiro,Laranjeiras,Chá Gelado,bebida,17.52,4
+155,João,Bistrô Carioca,Leblon,Feijoada,prato,27.62,5
+156,Bruno,Trem da Tijuca,Tijuca,Pizza Calabresa,prato,50.91,4
+157,Marina,Casa Nordestina,Catete,Refrigerante Lata,bebida,9.24,3
+158,Fernanda,Empório das Massas,Ipanema,Suco de Uva,bebida,11.7,4
+159,Marina,Veg & Tal,Copacabana,Cerveja Long Neck,bebida,18.99,2
+160,João,Empório das Massas,Ipanema,Guaraná,bebida,17.84,4
+161,Luis,Veg & Tal,Copacabana,Chá Gelado,bebida,10.79,2
+162,Paula,Borogodó Lanches,Centro,Risoto de Camarão,prato,58.61,3
+163,Ana,Bistrô Carioca,Leblon,Risoto de Camarão,prato,56.42,1
+164,Rafa,Rio Sushi,Flamengo,Hambúrguer da Casa,prato,38.78,3
+165,Marina,Empório das Massas,Ipanema,Suco de Laranja,bebida,17.78,5
+166,Pedro,Veg & Tal,Copacabana,Café Expresso,bebida,5.54,1
+167,João,Cantinho Mineiro,Laranjeiras,Strogonoff,prato,23.62,1
+168,Ana,Bistrô Carioca,Leblon,Strogonoff,prato,31.98,1
+169,Luis,Veg & Tal,Copacabana,Pizza Calabresa,prato,34.34,4
+170,Rafa,La Pasta,Botafogo,Milkshake de Chocolate,bebida,15.23,2
+171,Rafa,Trem da Tijuca,Tijuca,Yakissoba,prato,54.83,5
+172,João,Bistrô Carioca,Leblon,Pizza Mussarela,prato,38.45,3
+173,Paula,Cantinho Mineiro,Laranjeiras,Tapioca de Queijo,prato,38.61,3
+174,Bruno,Trem da Tijuca,Tijuca,Lasanha,prato,57.81,5
+175,Carla,Rio Sushi,Flamengo,Cerveja Long Neck,bebida,17.68,2
+176,Pedro,Bistrô Carioca,Leblon,Pizza Mussarela,prato,35.25,3
+177,Fernanda,Cantinho Mineiro,Laranjeiras,Refrigerante Lata,bebida,19.67,4
+178,Carla,Borogodó Lanches,Centro,Yakissoba,prato,49.81,3
+179,João,Empório das Massas,Ipanema,Guaraná,bebida,14.55,5
+180,Carla,Trem da Tijuca,Tijuca,Nhoque ao Sugo,prato,45.85,3
+181,Paula,Borogodó Lanches,Centro,Suco de Uva,bebida,6.35,3
+182,Marina,Rio Sushi,Flamengo,Pizza Mussarela,prato,25.29,5
+183,Marina,Casa Nordestina,Catete,Suco de Uva,bebida,8.85,4
+184,Carla,Veg & Tal,Copacabana,Lasanha,prato,58.52,2
+185,João,Rio Sushi,Flamengo,Suco de Laranja,bebida,16.86,1
+186,Carla,Casa Nordestina,Catete,Lasanha,prato,34.74,3
+187,Fernanda,Rio Sushi,Flamengo,Suco de Laranja,bebida,15.12,4
+188,Luis,Empório das Massas,Ipanema,Milkshake de Chocolate,bebida,8.32,1
+189,Paula,Cantinho Mineiro,Laranjeiras,Suco de Laranja,bebida,7.1,1
+190,Carla,Bistrô Carioca,Leblon,Hambúrguer da Casa,prato,29.39,5
+191,Rafa,Rio Sushi,Flamengo,Água sem Gás,bebida,15.06,5
+192,Pedro,Empório das Massas,Ipanema,Feijoada,prato,46.2,4
+193,Fernanda,Rio Sushi,Flamengo,Refrigerante Lata,bebida,15.35,2
+194,Paula,Bistrô Carioca,Leblon,Salada Caesar,prato,34.51,3
+195,Bruno,Veg & Tal,Copacabana,Feijoada,prato,31.04,1
+196,Paula,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,45.58,1
+197,Luis,Veg & Tal,Copacabana,Cheeseburger,prato,51.48,2
+198,Ana,Casa Nordestina,Catete,Yakissoba,prato,28.64,2
+199,Marina,Trem da Tijuca,Tijuca,Pizza Calabresa,prato,54.34,2
+200,Rafa,Casa Nordestina,Catete,Suco de Uva,bebida,6.65,1
+201,Rafa,Borogodó Lanches,Centro,Guaraná,bebida,13.83,1
+202,Rafa,Cantinho Mineiro,Laranjeiras,Cheeseburger,prato,49.67,5
+203,Ana,Sabor & Cia,Rio Comprido,Cerveja Long Neck,bebida,16.67,5
+204,Fernanda,Sabor & Cia,Rio Comprido,Café Expresso,bebida,8.32,5
+205,Luis,Casa Nordestina,Catete,Cerveja Long Neck,bebida,14.65,1
+206,Luis,Bistrô Carioca,Leblon,Chá Gelado,bebida,15.29,4
+207,Paula,Sabor & Cia,Rio Comprido,Filé de Frango,prato,44.33,1
+208,Rafa,Cantinho Mineiro,Laranjeiras,Chá Gelado,bebida,19.92,5
+209,Carla,Bistrô Carioca,Leblon,Suco de Laranja,bebida,16.9,1
+210,Bruno,La Pasta,Botafogo,Cerveja Long Neck,bebida,18.32,4
+211,Marina,Bistrô Carioca,Leblon,Chá Gelado,bebida,15.94,3
+212,Pedro,Veg & Tal,Copacabana,Água sem Gás,bebida,19.3,4
+213,Ana,Sabor & Cia,Rio Comprido,Hambúrguer da Casa,prato,37.28,3
+214,Rafa,Casa Nordestina,Catete,Yakissoba,prato,58.26,5
+215,Marina,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,18.1,4
+216,Luis,Cantinho Mineiro,Laranjeiras,Água sem Gás,bebida,6.55,5
+217,João,Trem da Tijuca,Tijuca,Guaraná,bebida,17.71,3
+218,Bruno,Veg & Tal,Copacabana,Tapioca de Queijo,prato,31.14,2
+219,Pedro,Casa Nordestina,Catete,Yakissoba,prato,57.16,3
+220,Luis,Trem da Tijuca,Tijuca,Água com Gás,bebida,18.82,3
+221,Luis,Trem da Tijuca,Tijuca,Yakissoba,prato,46.29,1
+222,Rafa,Borogodó Lanches,Centro,Strogonoff,prato,41.22,4
+223,Pedro,Bistrô Carioca,Leblon,Suco de Uva,bebida,10.55,3
+224,Fernanda,Empório das Massas,Ipanema,Prato Feito,prato,26.22,5
+225,Luis,Sabor & Cia,Rio Comprido,Cerveja Long Neck,bebida,14.93,4
+226,Fernanda,Bistrô Carioca,Leblon,Água com Gás,bebida,8.23,5
+227,Ana,Veg & Tal,Copacabana,Suco de Laranja,bebida,9.25,5
+228,Paula,Casa Nordestina,Catete,Refrigerante Lata,bebida,8.31,5
+229,Luis,Borogodó Lanches,Centro,Pizza Calabresa,prato,57.81,2
+230,Carla,Cantinho Mineiro,Laranjeiras,Suco de Laranja,bebida,5.12,4
+231,Rafa,Trem da Tijuca,Tijuca,Café Expresso,bebida,15.56,5
+232,Bruno,Veg & Tal,Copacabana,Feijoada,prato,54.47,1
+233,Pedro,Borogodó Lanches,Centro,Suco de Laranja,bebida,17.93,5
+234,Pedro,Empório das Massas,Ipanema,Chá Gelado,bebida,9.34,4
+235,Luis,Veg & Tal,Copacabana,Tapioca de Queijo,prato,57.9,4
+236,Marina,Sabor & Cia,Rio Comprido,Suco de Laranja,bebida,8.65,5
+237,Pedro,Casa Nordestina,Catete,Feijoada,prato,54.82,3
+238,João,Veg & Tal,Copacabana,Hambúrguer da Casa,prato,40.42,1
+239,Bruno,Casa Nordestina,Catete,Tapioca de Queijo,prato,33.98,2
+240,João,Sabor & Cia,Rio Comprido,Pizza Calabresa,prato,27.89,5
+241,Rafa,Sabor & Cia,Rio Comprido,Tapioca de Queijo,prato,45.12,4
+242,Fernanda,Empório das Massas,Ipanema,Milkshake de Chocolate,bebida,14.64,5
+243,Marina,Veg & Tal,Copacabana,Lasanha,prato,22.73,4
+244,Carla,Cantinho Mineiro,Laranjeiras,Filé de Frango,prato,40.29,3
+245,Paula,Bistrô Carioca,Leblon,Prato Feito,prato,34.75,3
+246,Ana,Sabor & Cia,Rio Comprido,Cerveja Long Neck,bebida,13.7,1
+247,Paula,Empório das Massas,Ipanema,Filé de Frango,prato,44.2,5
+248,Rafa,Borogodó Lanches,Centro,Suco de Laranja,bebida,17.16,3
+249,Ana,Casa Nordestina,Catete,Prato Feito,prato,29.91,4
+250,Paula,Casa Nordestina,Catete,Filé de Frango,prato,34.91,3
+251,Pedro,Rio Sushi,Flamengo,Milkshake de Chocolate,bebida,5.79,3
+252,Ana,Veg & Tal,Copacabana,Risoto de Camarão,prato,47.14,3
+253,Carla,Empório das Massas,Ipanema,Filé de Frango,prato,23.26,2
+254,Marina,Cantinho Mineiro,Laranjeiras,Suco de Uva,bebida,13.93,1
+255,Carla,Casa Nordestina,Catete,Água sem Gás,bebida,17.2,5
+256,Ana,Rio Sushi,Flamengo,Refrigerante Lata,bebida,10.44,2
+257,João,Veg & Tal,Copacabana,Guaraná,bebida,8.4,2
+258,Rafa,Sabor & Cia,Rio Comprido,Suco de Laranja,bebida,12.62,5
+259,Bruno,Borogodó Lanches,Centro,Milkshake de Chocolate,bebida,6.97,4
+260,Rafa,Trem da Tijuca,Tijuca,Salada Caesar,prato,47.71,5
+261,Rafa,Bistrô Carioca,Leblon,Feijoada,prato,34.57,2
+262,Paula,Empório das Massas,Ipanema,Cerveja Long Neck,bebida,8.51,2
+263,Carla,Bistrô Carioca,Leblon,Filé de Frango,prato,47.13,5
+264,Paula,Bistrô Carioca,Leblon,Chá Gelado,bebida,12.54,4
+265,Rafa,La Pasta,Botafogo,Salada Caesar,prato,30.0,4
+266,Marina,Casa Nordestina,Catete,Strogonoff,prato,53.84,1
+267,Carla,Sabor & Cia,Rio Comprido,Pizza Calabresa,prato,37.97,5
+268,Rafa,Rio Sushi,Flamengo,Pizza Mussarela,prato,52.67,3
+269,Luis,Rio Sushi,Flamengo,Feijoada,prato,40.08,2
+270,Pedro,Sabor & Cia,Rio Comprido,Guaraná,bebida,5.42,1
+271,Marina,Trem da Tijuca,Tijuca,Prato Feito,prato,31.48,4
+272,Rafa,Bistrô Carioca,Leblon,Milkshake de Chocolate,bebida,5.08,1
+273,Luis,Cantinho Mineiro,Laranjeiras,Salada Caesar,prato,25.98,5
+274,Bruno,Rio Sushi,Flamengo,Tapioca de Queijo,prato,31.52,3
+275,Ana,Borogodó Lanches,Centro,Feijoada,prato,45.56,5
+276,Paula,Sabor & Cia,Rio Comprido,Salada Caesar,prato,56.21,5
+277,Bruno,Borogodó Lanches,Centro,Strogonoff,prato,25.74,4
+278,Luis,Empório das Massas,Ipanema,Guaraná,bebida,13.56,2
+279,Ana,Casa Nordestina,Catete,Suco de Laranja,bebida,19.3,5
+280,Bruno,Casa Nordestina,Catete,Feijoada,prato,54.93,1
+281,Pedro,Veg & Tal,Copacabana,Refrigerante Lata,bebida,10.36,1
+282,Marina,La Pasta,Botafogo,Tapioca de Queijo,prato,43.28,3
+283,Rafa,Borogodó Lanches,Centro,Café Expresso,bebida,10.08,2
+284,Paula,Bistrô Carioca,Leblon,Tapioca de Queijo,prato,25.39,4
+285,Luis,Cantinho Mineiro,Laranjeiras,Prato Feito,prato,51.64,1
+286,Marina,Cantinho Mineiro,Laranjeiras,Café Expresso,bebida,12.1,1
+287,João,Cantinho Mineiro,Laranjeiras,Refrigerante Lata,bebida,17.99,3
+288,Carla,Sabor & Cia,Rio Comprido,Chá Gelado,bebida,18.34,4
+289,Pedro,Veg & Tal,Copacabana,Lasanha,prato,47.68,3
+290,Bruno,Cantinho Mineiro,Laranjeiras,Strogonoff,prato,36.98,4
+291,Fernanda,Trem da Tijuca,Tijuca,Água sem Gás,bebida,6.54,3
+292,Carla,Cantinho Mineiro,Laranjeiras,Milkshake de Chocolate,bebida,15.76,2
+293,Paula,Veg & Tal,Copacabana,Refrigerante Lata,bebida,15.9,3
+294,Fernanda,Rio Sushi,Flamengo,Refrigerante Lata,bebida,6.13,4
+295,Marina,Casa Nordestina,Catete,Prato Feito,prato,25.71,5
+296,Paula,Borogodó Lanches,Centro,Hambúrguer da Casa,prato,29.44,3
+297,Marina,Rio Sushi,Flamengo,Yakissoba,prato,26.14,4
+298,Marina,Veg & Tal,Copacabana,Suco de Laranja,bebida,13.61,5
+299,Marina,Rio Sushi,Flamengo,Água com Gás,bebida,8.74,1
+300,Luis,Trem da Tijuca,Tijuca,Café Expresso,bebida,10.8,5
+301,Ana,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,8.22,5
+302,Carla,Bistrô Carioca,Leblon,Hambúrguer da Casa,prato,25.43,1
+303,Paula,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,17.16,3
+304,Marina,Sabor & Cia,Rio Comprido,Água com Gás,bebida,17.77,2
+305,Marina,Casa Nordestina,Catete,Hambúrguer da Casa,prato,59.41,2
+306,João,Bistrô Carioca,Leblon,Filé de Frango,prato,42.16,3
+307,Paula,Casa Nordestina,Catete,Yakissoba,prato,55.37,1
+308,Carla,Rio Sushi,Flamengo,Café Expresso,bebida,11.16,4
+309,Fernanda,Sabor & Cia,Rio Comprido,Filé de Frango,prato,45.69,4
+310,Paula,Casa Nordestina,Catete,Suco de Uva,bebida,18.17,5
+311,Fernanda,Trem da Tijuca,Tijuca,Feijoada,prato,40.11,1
+312,Ana,Casa Nordestina,Catete,Pizza Calabresa,prato,26.59,3
+313,João,Veg & Tal,Copacabana,Suco de Laranja,bebida,8.76,5
+314,Carla,Trem da Tijuca,Tijuca,Milkshake de Chocolate,bebida,13.0,5
+315,Rafa,Empório das Massas,Ipanema,Cheeseburger,prato,46.35,5
+316,Marina,Empório das Massas,Ipanema,Salada Caesar,prato,54.55,1
+317,Luis,Empório das Massas,Ipanema,Guaraná,bebida,16.5,4
+318,Fernanda,Borogodó Lanches,Centro,Café Expresso,bebida,9.35,3
+319,Paula,La Pasta,Botafogo,Água com Gás,bebida,11.8,1
+320,Rafa,Bistrô Carioca,Leblon,Cerveja Long Neck,bebida,11.97,3
+321,Fernanda,Trem da Tijuca,Tijuca,Água sem Gás,bebida,16.01,3
+322,Pedro,Trem da Tijuca,Tijuca,Café Expresso,bebida,13.42,3
+323,João,Bistrô Carioca,Leblon,Pizza Calabresa,prato,37.98,2
+324,Ana,Borogodó Lanches,Centro,Chá Gelado,bebida,17.96,4
+325,João,Trem da Tijuca,Tijuca,Milkshake de Chocolate,bebida,15.82,2
+326,Rafa,Bistrô Carioca,Leblon,Cerveja Long Neck,bebida,18.19,4
+327,Luis,Sabor & Cia,Rio Comprido,Café Expresso,bebida,11.86,2
+328,João,Empório das Massas,Ipanema,Refrigerante Lata,bebida,5.76,4
+329,Fernanda,Bistrô Carioca,Leblon,Café Expresso,bebida,5.12,1
+330,Pedro,Trem da Tijuca,Tijuca,Água sem Gás,bebida,16.46,3
+331,Luis,Rio Sushi,Flamengo,Yakissoba,prato,42.47,3
+332,Bruno,Cantinho Mineiro,Laranjeiras,Feijoada,prato,40.17,5
+333,Carla,Empório das Massas,Ipanema,Cheeseburger,prato,59.0,4
+334,Marina,Veg & Tal,Copacabana,Suco de Uva,bebida,7.99,5
+335,Pedro,Casa Nordestina,Catete,Prato Feito,prato,21.56,3
+336,Paula,Casa Nordestina,Catete,Suco de Uva,bebida,14.09,5
+337,Rafa,Veg & Tal,Copacabana,Suco de Uva,bebida,10.89,5
+338,Carla,Empório das Massas,Ipanema,Café Expresso,bebida,17.42,5
+339,Paula,Empório das Massas,Ipanema,Cerveja Long Neck,bebida,17.24,3
+340,Marina,Sabor & Cia,Rio Comprido,Milkshake de Chocolate,bebida,9.62,1
+341,Fernanda,Bistrô Carioca,Leblon,Milkshake de Chocolate,bebida,13.66,1
+342,Fernanda,Bistrô Carioca,Leblon,Risoto de Camarão,prato,45.16,5
+343,Pedro,Trem da Tijuca,Tijuca,Prato Feito,prato,42.9,1
+344,João,Borogodó Lanches,Centro,Água sem Gás,bebida,11.28,4
+345,João,Rio Sushi,Flamengo,Refrigerante Lata,bebida,15.59,5
+346,João,Casa Nordestina,Catete,Cerveja Long Neck,bebida,12.88,3
+347,Rafa,Bistrô Carioca,Leblon,Café Expresso,bebida,10.31,3
+348,Fernanda,Bistrô Carioca,Leblon,Pizza Mussarela,prato,31.16,3
+349,João,Cantinho Mineiro,Laranjeiras,Guaraná,bebida,15.35,4
+350,Marina,Bistrô Carioca,Leblon,Café Expresso,bebida,19.01,3
+351,Carla,Sabor & Cia,Rio Comprido,Chá Gelado,bebida,17.28,2
+352,Carla,Borogodó Lanches,Centro,Suco de Laranja,bebida,10.2,4
+353,Carla,Bistrô Carioca,Leblon,Pizza Mussarela,prato,53.12,3
+354,Bruno,Cantinho Mineiro,Laranjeiras,Hambúrguer da Casa,prato,44.63,5
+355,João,La Pasta,Botafogo,Nhoque ao Sugo,prato,56.21,2
+356,João,Borogodó Lanches,Centro,Feijoada,prato,33.21,4
+357,Ana,Trem da Tijuca,Tijuca,Risoto de Camarão,prato,59.12,2
+358,Pedro,Bistrô Carioca,Leblon,Guaraná,bebida,16.34,3
+359,Marina,Cantinho Mineiro,Laranjeiras,Tapioca de Queijo,prato,23.58,5
+360,João,Casa Nordestina,Catete,Cheeseburger,prato,36.72,2
+361,Luis,Rio Sushi,Flamengo,Suco de Uva,bebida,19.05,3
+362,Luis,Borogodó Lanches,Centro,Milkshake de Chocolate,bebida,14.04,3
+363,Carla,Bistrô Carioca,Leblon,Suco de Uva,bebida,17.77,4
+364,Carla,La Pasta,Botafogo,Filé de Frango,prato,26.5,4
+365,Carla,Trem da Tijuca,Tijuca,Strogonoff,prato,33.48,3
+366,Fernanda,La Pasta,Botafogo,Yakissoba,prato,54.25,4
+367,Pedro,Casa Nordestina,Catete,Suco de Laranja,bebida,11.01,1
+368,Rafa,Trem da Tijuca,Tijuca,Água sem Gás,bebida,19.04,1
+369,Carla,Rio Sushi,Flamengo,Lasanha,prato,50.15,3
+370,Carla,Empório das Massas,Ipanema,Pizza Calabresa,prato,46.15,2
+371,Luis,Sabor & Cia,Rio Comprido,Água com Gás,bebida,7.4,5
+372,Carla,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,14.22,2
+373,Rafa,Bistrô Carioca,Leblon,Lasanha,prato,49.91,5
+374,Marina,Rio Sushi,Flamengo,Café Expresso,bebida,17.03,2
+375,João,Empório das Massas,Ipanema,Risoto de Camarão,prato,37.87,3
+376,Ana,Empório das Massas,Ipanema,Prato Feito,prato,53.15,5
+377,João,Empório das Massas,Ipanema,Cheeseburger,prato,33.12,5
+378,Paula,Sabor & Cia,Rio Comprido,Strogonoff,prato,43.33,1
+379,Bruno,Bistrô Carioca,Leblon,Lasanha,prato,25.28,4
+380,Paula,Empório das Massas,Ipanema,Risoto de Camarão,prato,38.5,3
+381,Luis,Rio Sushi,Flamengo,Refrigerante Lata,bebida,16.19,5
+382,Ana,Borogodó Lanches,Centro,Água sem Gás,bebida,15.51,5
+383,Luis,Sabor & Cia,Rio Comprido,Refrigerante Lata,bebida,9.31,2
+384,Rafa,Rio Sushi,Flamengo,Chá Gelado,bebida,11.73,4
+385,Pedro,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,54.41,1
+386,Rafa,Casa Nordestina,Catete,Café Expresso,bebida,6.91,2
+387,Luis,Borogodó Lanches,Centro,Cerveja Long Neck,bebida,15.1,5
+388,Pedro,Casa Nordestina,Catete,Guaraná,bebida,8.71,3
+389,Rafa,Cantinho Mineiro,Laranjeiras,Strogonoff,prato,50.62,1
+390,Pedro,Empório das Massas,Ipanema,Pizza Mussarela,prato,28.24,1
+391,Fernanda,Borogodó Lanches,Centro,Milkshake de Chocolate,bebida,15.08,1
+392,João,Borogodó Lanches,Centro,Cerveja Long Neck,bebida,8.52,2
+393,Luis,Trem da Tijuca,Tijuca,Guaraná,bebida,17.24,5
+394,Marina,Empório das Massas,Ipanema,Guaraná,bebida,9.53,2
+395,Bruno,La Pasta,Botafogo,Água com Gás,bebida,9.13,5
+396,Fernanda,Trem da Tijuca,Tijuca,Café Expresso,bebida,12.43,3
+397,Pedro,Casa Nordestina,Catete,Chá Gelado,bebida,11.12,3
+398,Pedro,Trem da Tijuca,Tijuca,Guaraná,bebida,17.74,3
+399,Rafa,Bistrô Carioca,Leblon,Risoto de Camarão,prato,36.51,4
+400,Bruno,Casa Nordestina,Catete,Feijoada,prato,29.71,2
+401,Marina,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,6.39,2
+402,Luis,Cantinho Mineiro,Laranjeiras,Milkshake de Chocolate,bebida,14.04,1
+403,João,Empório das Massas,Ipanema,Lasanha,prato,28.36,3
+404,Carla,Borogodó Lanches,Centro,Pizza Mussarela,prato,58.48,1
+405,Paula,La Pasta,Botafogo,Feijoada,prato,56.61,5
+406,Marina,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,13.0,3
+407,Carla,Cantinho Mineiro,Laranjeiras,Café Expresso,bebida,18.24,4
+408,Ana,Bistrô Carioca,Leblon,Guaraná,bebida,10.56,4
+409,Luis,Empório das Massas,Ipanema,Strogonoff,prato,25.84,3
+410,Bruno,Empório das Massas,Ipanema,Água com Gás,bebida,7.29,3
+411,João,Rio Sushi,Flamengo,Lasanha,prato,42.03,3
+412,Carla,Bistrô Carioca,Leblon,Cerveja Long Neck,bebida,7.52,3
+413,Rafa,Trem da Tijuca,Tijuca,Suco de Uva,bebida,18.75,5
+414,Luis,Casa Nordestina,Catete,Salada Caesar,prato,53.87,1
+415,Luis,Rio Sushi,Flamengo,Salada Caesar,prato,45.23,1
+416,Rafa,Borogodó Lanches,Centro,Risoto de Camarão,prato,38.24,1
+417,Fernanda,Empório das Massas,Ipanema,Cerveja Long Neck,bebida,5.24,5
+418,Bruno,Rio Sushi,Flamengo,Prato Feito,prato,41.18,3
+419,Bruno,Cantinho Mineiro,Laranjeiras,Risoto de Camarão,prato,52.53,4
+420,Rafa,Sabor & Cia,Rio Comprido,Risoto de Camarão,prato,25.96,2
+421,Fernanda,Casa Nordestina,Catete,Água sem Gás,bebida,9.01,4
+422,Ana,Veg & Tal,Copacabana,Cerveja Long Neck,bebida,13.48,2
+423,Carla,Sabor & Cia,Rio Comprido,Hambúrguer da Casa,prato,36.21,4
+424,Bruno,Bistrô Carioca,Leblon,Nhoque ao Sugo,prato,20.38,2
+425,Ana,Bistrô Carioca,Leblon,Água sem Gás,bebida,13.49,1
+426,Bruno,Borogodó Lanches,Centro,Pizza Mussarela,prato,56.05,5
+427,Paula,Cantinho Mineiro,Laranjeiras,Hambúrguer da Casa,prato,47.38,3
+428,Bruno,Empório das Massas,Ipanema,Cheeseburger,prato,57.15,3
+429,Luis,La Pasta,Botafogo,Tapioca de Queijo,prato,52.83,4
+430,Ana,Cantinho Mineiro,Laranjeiras,Yakissoba,prato,29.62,4
+431,Bruno,Veg & Tal,Copacabana,Suco de Uva,bebida,16.86,1
+432,Bruno,Veg & Tal,Copacabana,Hambúrguer da Casa,prato,37.48,1
+433,Marina,Empório das Massas,Ipanema,Água sem Gás,bebida,5.44,3
+434,Paula,Bistrô Carioca,Leblon,Filé de Frango,prato,42.12,4
+435,Pedro,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,16.58,3
+436,João,Sabor & Cia,Rio Comprido,Pizza Calabresa,prato,26.17,2
+437,Pedro,Veg & Tal,Copacabana,Suco de Laranja,bebida,6.37,3
+438,Paula,Veg & Tal,Copacabana,Suco de Laranja,bebida,6.99,2
+439,Pedro,Bistrô Carioca,Leblon,Suco de Laranja,bebida,5.39,3
+440,Bruno,Sabor & Cia,Rio Comprido,Chá Gelado,bebida,5.19,4
+441,Pedro,Sabor & Cia,Rio Comprido,Yakissoba,prato,40.84,4
+442,Rafa,Trem da Tijuca,Tijuca,Água com Gás,bebida,9.03,2
+443,Ana,Trem da Tijuca,Tijuca,Água com Gás,bebida,11.32,4
+444,Ana,Veg & Tal,Copacabana,Guaraná,bebida,15.81,4
+445,Fernanda,Empório das Massas,Ipanema,Lasanha,prato,24.28,3
+446,Luis,Rio Sushi,Flamengo,Milkshake de Chocolate,bebida,10.7,3
+447,Paula,Veg & Tal,Copacabana,Milkshake de Chocolate,bebida,7.04,3
+448,Fernanda,La Pasta,Botafogo,Água sem Gás,bebida,7.66,4
+449,Marina,Cantinho Mineiro,Laranjeiras,Milkshake de Chocolate,bebida,16.73,3
+450,Pedro,Cantinho Mineiro,Laranjeiras,Água sem Gás,bebida,6.71,5
+451,João,Empório das Massas,Ipanema,Nhoque ao Sugo,prato,50.7,1
+452,Paula,La Pasta,Botafogo,Água com Gás,bebida,17.47,1
+453,Pedro,Bistrô Carioca,Leblon,Nhoque ao Sugo,prato,32.11,3
+454,Rafa,Rio Sushi,Flamengo,Suco de Laranja,bebida,11.74,5
+455,Paula,Empório das Massas,Ipanema,Café Expresso,bebida,12.6,4
+456,Bruno,Borogodó Lanches,Centro,Café Expresso,bebida,13.91,1
+457,Ana,La Pasta,Botafogo,Suco de Uva,bebida,14.7,1
+458,Fernanda,Rio Sushi,Flamengo,Chá Gelado,bebida,6.59,1
+459,Carla,La Pasta,Botafogo,Lasanha,prato,34.96,4
+460,Fernanda,Casa Nordestina,Catete,Filé de Frango,prato,59.91,4
+461,Ana,Cantinho Mineiro,Laranjeiras,Suco de Laranja,bebida,6.74,2
+462,Marina,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,16.76,5
+463,Paula,Veg & Tal,Copacabana,Suco de Laranja,bebida,11.57,4
+464,Marina,Sabor & Cia,Rio Comprido,Refrigerante Lata,bebida,17.15,1
+465,Luis,Veg & Tal,Copacabana,Nhoque ao Sugo,prato,52.0,2
+466,Bruno,Trem da Tijuca,Tijuca,Filé de Frango,prato,42.39,4
+467,João,Rio Sushi,Flamengo,Cheeseburger,prato,45.62,4
+468,Pedro,Borogodó Lanches,Centro,Lasanha,prato,43.69,4
+469,Luis,La Pasta,Botafogo,Pizza Calabresa,prato,50.09,1
+470,Fernanda,Sabor & Cia,Rio Comprido,Filé de Frango,prato,33.04,4
+471,Ana,Cantinho Mineiro,Laranjeiras,Café Expresso,bebida,19.49,3
+472,Fernanda,Rio Sushi,Flamengo,Milkshake de Chocolate,bebida,6.71,3
+473,Paula,Empório das Massas,Ipanema,Salada Caesar,prato,46.94,3
+474,Fernanda,Empório das Massas,Ipanema,Nhoque ao Sugo,prato,25.36,1
+475,João,Cantinho Mineiro,Laranjeiras,Cheeseburger,prato,34.93,2
+476,Bruno,Rio Sushi,Flamengo,Milkshake de Chocolate,bebida,7.07,4
+477,Pedro,Trem da Tijuca,Tijuca,Café Expresso,bebida,15.4,2
+478,Bruno,Trem da Tijuca,Tijuca,Água com Gás,bebida,7.1,3
+479,Paula,Empório das Massas,Ipanema,Salada Caesar,prato,34.36,1
+480,Paula,Trem da Tijuca,Tijuca,Salada Caesar,prato,35.36,5
+481,Bruno,Bistrô Carioca,Leblon,Cerveja Long Neck,bebida,11.23,4
+482,Paula,Trem da Tijuca,Tijuca,Yakissoba,prato,21.23,2
+483,Carla,Borogodó Lanches,Centro,Guaraná,bebida,13.06,2
+484,Paula,Empório das Massas,Ipanema,Café Expresso,bebida,12.66,5
+485,Ana,Cantinho Mineiro,Laranjeiras,Café Expresso,bebida,17.34,1
+486,Paula,Casa Nordestina,Catete,Feijoada,prato,24.1,2
+487,Carla,Borogodó Lanches,Centro,Água com Gás,bebida,10.23,1
+488,Paula,Sabor & Cia,Rio Comprido,Pizza Mussarela,prato,52.43,5
+489,Marina,Empório das Massas,Ipanema,Suco de Uva,bebida,14.24,2
+490,João,Borogodó Lanches,Centro,Café Expresso,bebida,9.22,5
+491,Rafa,Veg & Tal,Copacabana,Água com Gás,bebida,13.59,5
+492,Ana,Trem da Tijuca,Tijuca,Refrigerante Lata,bebida,19.89,2
+493,Rafa,La Pasta,Botafogo,Strogonoff,prato,32.88,2
+494,Pedro,Bistrô Carioca,Leblon,Yakissoba,prato,45.3,4
+495,Pedro,Bistrô Carioca,Leblon,Nhoque ao Sugo,prato,51.78,1
+496,Pedro,Casa Nordestina,Catete,Água sem Gás,bebida,11.82,4
+497,Marina,Empório das Massas,Ipanema,Salada Caesar,prato,50.97,1
+498,Paula,Veg & Tal,Copacabana,Tapioca de Queijo,prato,41.38,2
+499,Pedro,La Pasta,Botafogo,Água com Gás,bebida,9.84,3
+500,Marina,Casa Nordestina,Catete,Yakissoba,prato,54.1,3
+501,Luis,Borogodó Lanches,Centro,Nhoque ao Sugo,prato,51.36,4
+502,Luis,Sabor & Cia,Rio Comprido,Lasanha,prato,38.26,4
+503,João,Trem da Tijuca,Tijuca,Suco de Uva,bebida,18.12,3
+504,Ana,Veg & Tal,Copacabana,Suco de Laranja,bebida,10.58,2
+505,Luis,Rio Sushi,Flamengo,Guaraná,bebida,11.44,1
+506,Ana,Borogodó Lanches,Centro,Lasanha,prato,23.12,5
+507,João,Casa Nordestina,Catete,Refrigerante Lata,bebida,5.12,3
+508,Ana,Rio Sushi,Flamengo,Lasanha,prato,22.83,4
+509,Ana,Sabor & Cia,Rio Comprido,Filé de Frango,prato,34.7,3
+510,Rafa,Rio Sushi,Flamengo,Nhoque ao Sugo,prato,59.72,2
+511,Ana,Casa Nordestina,Catete,Yakissoba,prato,46.0,4
+512,Marina,La Pasta,Botafogo,Feijoada,prato,44.64,4
+513,João,Sabor & Cia,Rio Comprido,Cheeseburger,prato,50.1,5
+514,Pedro,Veg & Tal,Copacabana,Água sem Gás,bebida,16.87,2
+515,Carla,Sabor & Cia,Rio Comprido,Risoto de Camarão,prato,44.04,5
+516,Carla,Borogodó Lanches,Centro,Guaraná,bebida,12.77,5
+517,João,Rio Sushi,Flamengo,Refrigerante Lata,bebida,16.76,2
+518,Paula,Rio Sushi,Flamengo,Pizza Mussarela,prato,39.98,5
+519,Ana,Casa Nordestina,Catete,Filé de Frango,prato,57.36,2
+520,Pedro,Empório das Massas,Ipanema,Água sem Gás,bebida,13.2,2
+521,Paula,Sabor & Cia,Rio Comprido,Yakissoba,prato,22.7,3
+522,João,Borogodó Lanches,Centro,Tapioca de Queijo,prato,35.92,3
+523,Bruno,Rio Sushi,Flamengo,Chá Gelado,bebida,6.24,5
+524,Bruno,Empório das Massas,Ipanema,Pizza Calabresa,prato,23.34,1
+525,Bruno,La Pasta,Botafogo,Risoto de Camarão,prato,33.07,5
+526,Ana,Cantinho Mineiro,Laranjeiras,Guaraná,bebida,5.87,1
+527,Pedro,Sabor & Cia,Rio Comprido,Milkshake de Chocolate,bebida,14.13,3
+528,Rafa,Sabor & Cia,Rio Comprido,Strogonoff,prato,25.49,1
+529,Rafa,Bistrô Carioca,Leblon,Café Expresso,bebida,12.76,3
+530,Rafa,Veg & Tal,Copacabana,Strogonoff,prato,51.24,3
+531,Ana,Borogodó Lanches,Centro,Chá Gelado,bebida,9.08,1
+532,Carla,Empório das Massas,Ipanema,Lasanha,prato,38.21,3
+533,Luis,Bistrô Carioca,Leblon,Filé de Frango,prato,26.29,1
+534,Fernanda,Sabor & Cia,Rio Comprido,Strogonoff,prato,40.35,1
+535,Luis,La Pasta,Botafogo,Lasanha,prato,34.56,2
+536,Rafa,Borogodó Lanches,Centro,Guaraná,bebida,9.83,4
+537,Marina,Cantinho Mineiro,Laranjeiras,Yakissoba,prato,34.91,5
+538,Luis,Trem da Tijuca,Tijuca,Tapioca de Queijo,prato,40.63,1
+539,Pedro,Sabor & Cia,Rio Comprido,Água com Gás,bebida,16.6,3
+540,Marina,Sabor & Cia,Rio Comprido,Refrigerante Lata,bebida,10.53,3
+541,Fernanda,Cantinho Mineiro,Laranjeiras,Lasanha,prato,34.73,4
+542,João,Casa Nordestina,Catete,Cheeseburger,prato,20.26,4
+543,Luis,La Pasta,Botafogo,Refrigerante Lata,bebida,19.26,1
+544,Pedro,Cantinho Mineiro,Laranjeiras,Pizza Mussarela,prato,41.19,2
+545,Pedro,Bistrô Carioca,Leblon,Cheeseburger,prato,48.47,1
+546,Luis,La Pasta,Botafogo,Água sem Gás,bebida,11.88,1
+547,Fernanda,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,52.8,1
+548,Fernanda,Empório das Massas,Ipanema,Feijoada,prato,46.5,2
+549,João,Cantinho Mineiro,Laranjeiras,Água sem Gás,bebida,18.89,4
+550,Marina,Veg & Tal,Copacabana,Água com Gás,bebida,8.5,2
+551,Rafa,Empório das Massas,Ipanema,Cheeseburger,prato,24.23,4
+552,Paula,Veg & Tal,Copacabana,Suco de Laranja,bebida,13.04,2
+553,Paula,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,17.79,1
+554,Rafa,Cantinho Mineiro,Laranjeiras,Pizza Mussarela,prato,53.44,3
+555,Rafa,Sabor & Cia,Rio Comprido,Filé de Frango,prato,35.85,1
+556,Carla,Cantinho Mineiro,Laranjeiras,Prato Feito,prato,58.08,4
+557,Bruno,Casa Nordestina,Catete,Hambúrguer da Casa,prato,38.48,2
+558,Ana,Borogodó Lanches,Centro,Salada Caesar,prato,51.24,2
+559,Rafa,La Pasta,Botafogo,Água sem Gás,bebida,15.29,1
+560,Fernanda,Empório das Massas,Ipanema,Suco de Laranja,bebida,5.33,1
+561,João,Bistrô Carioca,Leblon,Hambúrguer da Casa,prato,56.2,3
+562,Ana,Borogodó Lanches,Centro,Refrigerante Lata,bebida,7.52,5
+563,Pedro,Rio Sushi,Flamengo,Refrigerante Lata,bebida,10.74,4
+564,Rafa,Veg & Tal,Copacabana,Cheeseburger,prato,31.0,4
+565,Rafa,Borogodó Lanches,Centro,Nhoque ao Sugo,prato,31.8,4
+566,Bruno,Bistrô Carioca,Leblon,Hambúrguer da Casa,prato,31.19,2
+567,Pedro,La Pasta,Botafogo,Nhoque ao Sugo,prato,59.76,5
+568,Luis,Rio Sushi,Flamengo,Cerveja Long Neck,bebida,13.17,4
+569,Marina,Empório das Massas,Ipanema,Chá Gelado,bebida,9.06,1
+570,Marina,Empório das Massas,Ipanema,Prato Feito,prato,55.83,3
+571,Luis,Bistrô Carioca,Leblon,Milkshake de Chocolate,bebida,19.99,2
+572,Ana,La Pasta,Botafogo,Pizza Calabresa,prato,41.35,1
+573,João,Empório das Massas,Ipanema,Água sem Gás,bebida,19.03,2
+574,Rafa,La Pasta,Botafogo,Água sem Gás,bebida,18.71,1
+575,Marina,Empório das Massas,Ipanema,Yakissoba,prato,57.93,4
+576,Bruno,Cantinho Mineiro,Laranjeiras,Lasanha,prato,21.52,1
+577,João,Empório das Massas,Ipanema,Prato Feito,prato,41.06,1
+578,Marina,Empório das Massas,Ipanema,Tapioca de Queijo,prato,25.22,2
+579,Marina,Borogodó Lanches,Centro,Cheeseburger,prato,43.46,2
+580,Ana,Casa Nordestina,Catete,Suco de Laranja,bebida,10.6,4
+581,Fernanda,Sabor & Cia,Rio Comprido,Água com Gás,bebida,9.84,2
+582,Pedro,Bistrô Carioca,Leblon,Suco de Uva,bebida,15.61,5
+583,Fernanda,Veg & Tal,Copacabana,Nhoque ao Sugo,prato,43.56,2
+584,Pedro,Cantinho Mineiro,Laranjeiras,Suco de Uva,bebida,7.67,1
+585,Fernanda,Rio Sushi,Flamengo,Cheeseburger,prato,44.1,5
+586,João,Empório das Massas,Ipanema,Lasanha,prato,25.63,1
+587,João,Veg & Tal,Copacabana,Suco de Uva,bebida,14.54,1
+588,Marina,Bistrô Carioca,Leblon,Pizza Calabresa,prato,28.39,1
+589,Marina,Cantinho Mineiro,Laranjeiras,Strogonoff,prato,20.05,4
+590,Paula,Rio Sushi,Flamengo,Feijoada,prato,39.72,4
+591,Marina,Casa Nordestina,Catete,Suco de Laranja,bebida,17.43,5
+592,João,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,16.99,1
+593,Carla,Borogodó Lanches,Centro,Água com Gás,bebida,19.27,1
+594,Marina,Trem da Tijuca,Tijuca,Suco de Uva,bebida,15.98,5
+595,Ana,Veg & Tal,Copacabana,Refrigerante Lata,bebida,11.47,2
+596,Fernanda,Rio Sushi,Flamengo,Prato Feito,prato,24.05,2
+597,João,Rio Sushi,Flamengo,Água com Gás,bebida,9.46,1
+598,Luis,Rio Sushi,Flamengo,Suco de Uva,bebida,5.82,1
+599,Pedro,Sabor & Cia,Rio Comprido,Milkshake de Chocolate,bebida,12.2,1
+600,Luis,La Pasta,Botafogo,Nhoque ao Sugo,prato,31.67,1
+601,Paula,Sabor & Cia,Rio Comprido,Chá Gelado,bebida,12.06,3
+602,Ana,Casa Nordestina,Catete,Suco de Uva,bebida,10.57,4
+603,Marina,Trem da Tijuca,Tijuca,Refrigerante Lata,bebida,8.95,4
+604,Carla,La Pasta,Botafogo,Milkshake de Chocolate,bebida,5.92,1
+605,Ana,Veg & Tal,Copacabana,Milkshake de Chocolate,bebida,8.41,1
+606,Pedro,Casa Nordestina,Catete,Café Expresso,bebida,15.31,4
+607,Fernanda,La Pasta,Botafogo,Água com Gás,bebida,6.18,1
+608,Bruno,Empório das Massas,Ipanema,Hambúrguer da Casa,prato,57.97,4
+609,Rafa,Trem da Tijuca,Tijuca,Tapioca de Queijo,prato,27.71,1
+610,Pedro,Sabor & Cia,Rio Comprido,Guaraná,bebida,19.96,2
+611,Fernanda,Cantinho Mineiro,Laranjeiras,Suco de Laranja,bebida,6.31,5
+612,Pedro,Casa Nordestina,Catete,Água com Gás,bebida,12.8,1
+613,Fernanda,Empório das Massas,Ipanema,Suco de Laranja,bebida,11.22,2
+614,Fernanda,Empório das Massas,Ipanema,Hambúrguer da Casa,prato,42.51,1
+615,Carla,Casa Nordestina,Catete,Chá Gelado,bebida,8.96,4
+616,Fernanda,Empório das Massas,Ipanema,Refrigerante Lata,bebida,7.58,4
+617,Rafa,Empório das Massas,Ipanema,Refrigerante Lata,bebida,10.94,3
+618,João,Borogodó Lanches,Centro,Água com Gás,bebida,18.46,1
+619,Marina,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,17.64,1
+620,João,Trem da Tijuca,Tijuca,Cerveja Long Neck,bebida,16.61,3
+621,Carla,Rio Sushi,Flamengo,Pizza Mussarela,prato,37.67,4
+622,Paula,Casa Nordestina,Catete,Refrigerante Lata,bebida,12.73,2
+623,Ana,Cantinho Mineiro,Laranjeiras,Suco de Uva,bebida,16.71,5
+624,Fernanda,Borogodó Lanches,Centro,Pizza Mussarela,prato,55.01,2
+625,Luis,La Pasta,Botafogo,Lasanha,prato,22.02,3
+626,João,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,12.58,1
+627,Luis,La Pasta,Botafogo,Cerveja Long Neck,bebida,13.91,2
+628,Paula,Empório das Massas,Ipanema,Água sem Gás,bebida,7.45,3
+629,Ana,Cantinho Mineiro,Laranjeiras,Feijoada,prato,21.99,5
+630,João,La Pasta,Botafogo,Nhoque ao Sugo,prato,28.27,4
+631,Bruno,Borogodó Lanches,Centro,Lasanha,prato,56.46,2
+632,Fernanda,Borogodó Lanches,Centro,Pizza Calabresa,prato,44.33,3
+633,Carla,Rio Sushi,Flamengo,Água sem Gás,bebida,11.88,2
+634,Paula,Cantinho Mineiro,Laranjeiras,Milkshake de Chocolate,bebida,6.53,5
+635,Marina,Casa Nordestina,Catete,Água com Gás,bebida,15.27,4
+636,Ana,Veg & Tal,Copacabana,Água sem Gás,bebida,17.92,3
+637,Carla,La Pasta,Botafogo,Risoto de Camarão,prato,50.62,1
+638,Fernanda,Rio Sushi,Flamengo,Suco de Uva,bebida,15.82,4
+639,Carla,Cantinho Mineiro,Laranjeiras,Chá Gelado,bebida,10.82,1
+640,Fernanda,Empório das Massas,Ipanema,Filé de Frango,prato,49.06,2
+641,Bruno,Bistrô Carioca,Leblon,Café Expresso,bebida,9.5,2
+642,Bruno,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,12.06,3
+643,Bruno,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,8.33,2
+644,Carla,Rio Sushi,Flamengo,Água sem Gás,bebida,8.91,3
+645,Paula,Sabor & Cia,Rio Comprido,Refrigerante Lata,bebida,18.0,5
+646,Fernanda,Empório das Massas,Ipanema,Lasanha,prato,55.58,5
+647,Ana,Rio Sushi,Flamengo,Chá Gelado,bebida,5.81,2
+648,Rafa,La Pasta,Botafogo,Chá Gelado,bebida,19.81,4
+649,Rafa,Veg & Tal,Copacabana,Tapioca de Queijo,prato,23.23,3
+650,Rafa,Veg & Tal,Copacabana,Prato Feito,prato,38.08,2
+651,Rafa,Empório das Massas,Ipanema,Lasanha,prato,51.41,1
+652,Rafa,Empório das Massas,Ipanema,Chá Gelado,bebida,11.05,4
+653,Pedro,Borogodó Lanches,Centro,Risoto de Camarão,prato,27.98,3
+654,Luis,Veg & Tal,Copacabana,Prato Feito,prato,47.07,2
+655,João,Veg & Tal,Copacabana,Suco de Uva,bebida,6.54,5
+656,Fernanda,Cantinho Mineiro,Laranjeiras,Hambúrguer da Casa,prato,52.95,3
+657,Carla,Bistrô Carioca,Leblon,Chá Gelado,bebida,18.32,2
+658,Marina,Bistrô Carioca,Leblon,Guaraná,bebida,7.47,4
+659,Luis,La Pasta,Botafogo,Strogonoff,prato,59.4,2
+660,Luis,Empório das Massas,Ipanema,Hambúrguer da Casa,prato,34.66,1
+661,Pedro,Cantinho Mineiro,Laranjeiras,Yakissoba,prato,59.79,1
+662,Luis,Borogodó Lanches,Centro,Feijoada,prato,37.77,1
+663,Bruno,Cantinho Mineiro,Laranjeiras,Suco de Uva,bebida,8.08,1
+664,Carla,Rio Sushi,Flamengo,Nhoque ao Sugo,prato,40.81,5
+665,Fernanda,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,12.67,5
+666,Ana,Cantinho Mineiro,Laranjeiras,Tapioca de Queijo,prato,24.25,2
+667,Fernanda,La Pasta,Botafogo,Café Expresso,bebida,19.6,3
+668,Pedro,Cantinho Mineiro,Laranjeiras,Prato Feito,prato,41.93,2
+669,Paula,Veg & Tal,Copacabana,Prato Feito,prato,20.51,1
+670,Ana,Empório das Massas,Ipanema,Suco de Uva,bebida,19.24,5
+671,Ana,Sabor & Cia,Rio Comprido,Guaraná,bebida,11.85,3
+672,Carla,Bistrô Carioca,Leblon,Hambúrguer da Casa,prato,52.53,1
+673,Carla,Veg & Tal,Copacabana,Chá Gelado,bebida,16.08,1
+674,Luis,Borogodó Lanches,Centro,Nhoque ao Sugo,prato,45.89,3
+675,Marina,Bistrô Carioca,Leblon,Suco de Laranja,bebida,10.59,3
+676,Rafa,Sabor & Cia,Rio Comprido,Chá Gelado,bebida,19.43,3
+677,Pedro,Bistrô Carioca,Leblon,Suco de Uva,bebida,6.7,1
+678,Rafa,Sabor & Cia,Rio Comprido,Milkshake de Chocolate,bebida,12.24,5
+679,Paula,Trem da Tijuca,Tijuca,Água sem Gás,bebida,14.17,2
+680,Paula,Bistrô Carioca,Leblon,Feijoada,prato,37.63,1
+681,Carla,Veg & Tal,Copacabana,Strogonoff,prato,54.73,5
+682,Fernanda,Empório das Massas,Ipanema,Nhoque ao Sugo,prato,54.93,5
+683,Bruno,Empório das Massas,Ipanema,Feijoada,prato,46.47,2
+684,Paula,Veg & Tal,Copacabana,Suco de Uva,bebida,17.59,5
+685,Fernanda,Borogodó Lanches,Centro,Nhoque ao Sugo,prato,57.37,5
+686,Paula,Bistrô Carioca,Leblon,Hambúrguer da Casa,prato,50.06,3
+687,João,Veg & Tal,Copacabana,Refrigerante Lata,bebida,12.6,5
+688,Pedro,Rio Sushi,Flamengo,Hambúrguer da Casa,prato,38.36,5
+689,Paula,Sabor & Cia,Rio Comprido,Cerveja Long Neck,bebida,9.74,4
+690,Luis,Sabor & Cia,Rio Comprido,Chá Gelado,bebida,5.54,5
+691,Luis,Sabor & Cia,Rio Comprido,Café Expresso,bebida,13.43,4
+692,Marina,Veg & Tal,Copacabana,Salada Caesar,prato,28.92,4
+693,Marina,Casa Nordestina,Catete,Água sem Gás,bebida,15.74,1
+694,Ana,La Pasta,Botafogo,Filé de Frango,prato,34.21,3
+695,Bruno,Casa Nordestina,Catete,Suco de Laranja,bebida,5.69,2
+696,Paula,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,8.81,2
+697,João,Sabor & Cia,Rio Comprido,Guaraná,bebida,11.86,2
+698,Marina,Sabor & Cia,Rio Comprido,Refrigerante Lata,bebida,18.9,5
+699,Ana,Bistrô Carioca,Leblon,Milkshake de Chocolate,bebida,19.34,2
+700,Paula,Borogodó Lanches,Centro,Risoto de Camarão,prato,57.41,5
+701,Paula,Casa Nordestina,Catete,Strogonoff,prato,43.14,2
+702,Ana,Rio Sushi,Flamengo,Café Expresso,bebida,18.22,4
+703,Fernanda,La Pasta,Botafogo,Chá Gelado,bebida,19.45,3
+704,Paula,Trem da Tijuca,Tijuca,Feijoada,prato,44.1,5
+705,Carla,Casa Nordestina,Catete,Café Expresso,bebida,14.49,2
+706,João,Empório das Massas,Ipanema,Água sem Gás,bebida,18.82,2
+707,Rafa,Casa Nordestina,Catete,Suco de Laranja,bebida,16.41,5
+708,Paula,Empório das Massas,Ipanema,Café Expresso,bebida,9.29,4
+709,Luis,Casa Nordestina,Catete,Prato Feito,prato,35.23,1
+710,Luis,La Pasta,Botafogo,Suco de Uva,bebida,19.75,3
+711,Rafa,Borogodó Lanches,Centro,Guaraná,bebida,16.3,1
+712,Marina,Bistrô Carioca,Leblon,Yakissoba,prato,54.72,5
+713,João,Casa Nordestina,Catete,Guaraná,bebida,12.66,3
+714,Luis,Rio Sushi,Flamengo,Chá Gelado,bebida,19.35,3
+715,Bruno,Borogodó Lanches,Centro,Strogonoff,prato,30.05,5
+716,Paula,La Pasta,Botafogo,Milkshake de Chocolate,bebida,13.2,5
+717,João,La Pasta,Botafogo,Cerveja Long Neck,bebida,7.66,1
+718,Rafa,Trem da Tijuca,Tijuca,Feijoada,prato,21.63,3
+719,Bruno,Cantinho Mineiro,Laranjeiras,Cheeseburger,prato,43.36,3
+720,Luis,Veg & Tal,Copacabana,Suco de Uva,bebida,5.6,3
+721,Fernanda,Borogodó Lanches,Centro,Cerveja Long Neck,bebida,16.85,5
+722,Marina,Sabor & Cia,Rio Comprido,Café Expresso,bebida,8.3,2
+723,Bruno,Sabor & Cia,Rio Comprido,Feijoada,prato,41.72,4
+724,Ana,Veg & Tal,Copacabana,Pizza Mussarela,prato,46.53,3
+725,Marina,Cantinho Mineiro,Laranjeiras,Tapioca de Queijo,prato,44.73,4
+726,Bruno,Borogodó Lanches,Centro,Nhoque ao Sugo,prato,33.84,2
+727,Fernanda,Empório das Massas,Ipanema,Prato Feito,prato,47.3,3
+728,Pedro,Sabor & Cia,Rio Comprido,Água com Gás,bebida,13.1,3
+729,Luis,Casa Nordestina,Catete,Café Expresso,bebida,17.04,4
+730,Paula,Borogodó Lanches,Centro,Guaraná,bebida,9.8,1
+731,Ana,Trem da Tijuca,Tijuca,Nhoque ao Sugo,prato,22.62,2
+732,Pedro,Sabor & Cia,Rio Comprido,Risoto de Camarão,prato,53.15,4
+733,Ana,Trem da Tijuca,Tijuca,Lasanha,prato,48.67,1
+734,Ana,Sabor & Cia,Rio Comprido,Cheeseburger,prato,51.77,5
+735,Ana,Empório das Massas,Ipanema,Pizza Calabresa,prato,36.31,4
+736,Pedro,Rio Sushi,Flamengo,Refrigerante Lata,bebida,10.84,1
+737,Bruno,Borogodó Lanches,Centro,Tapioca de Queijo,prato,49.84,1
+738,Ana,Veg & Tal,Copacabana,Pizza Calabresa,prato,51.48,3
+739,Fernanda,Sabor & Cia,Rio Comprido,Cerveja Long Neck,bebida,10.72,1
+740,Paula,Trem da Tijuca,Tijuca,Cheeseburger,prato,49.87,5
+741,Carla,Trem da Tijuca,Tijuca,Água sem Gás,bebida,19.36,1
+742,Bruno,Casa Nordestina,Catete,Hambúrguer da Casa,prato,21.67,5
+743,Fernanda,Rio Sushi,Flamengo,Pizza Calabresa,prato,28.4,3
+744,João,Rio Sushi,Flamengo,Cheeseburger,prato,27.36,5
+745,Carla,La Pasta,Botafogo,Cheeseburger,prato,46.84,5
+746,Luis,Casa Nordestina,Catete,Café Expresso,bebida,6.1,1
+747,Carla,Sabor & Cia,Rio Comprido,Strogonoff,prato,43.22,3
+748,Marina,Trem da Tijuca,Tijuca,Hambúrguer da Casa,prato,31.41,1
+749,João,Veg & Tal,Copacabana,Cerveja Long Neck,bebida,9.93,3
+750,Fernanda,Trem da Tijuca,Tijuca,Água sem Gás,bebida,19.38,2
+751,Luis,Veg & Tal,Copacabana,Tapioca de Queijo,prato,28.86,4
+752,Carla,Veg & Tal,Copacabana,Nhoque ao Sugo,prato,49.32,4
+753,Paula,Bistrô Carioca,Leblon,Água com Gás,bebida,12.3,1
+754,Rafa,Empório das Massas,Ipanema,Salada Caesar,prato,31.22,2
+755,Bruno,La Pasta,Botafogo,Suco de Laranja,bebida,15.91,1
+756,Bruno,Borogodó Lanches,Centro,Milkshake de Chocolate,bebida,8.19,1
+757,Bruno,Cantinho Mineiro,Laranjeiras,Suco de Uva,bebida,10.49,2
+758,Fernanda,Cantinho Mineiro,Laranjeiras,Lasanha,prato,40.04,1
+759,Pedro,Veg & Tal,Copacabana,Nhoque ao Sugo,prato,29.56,5
+760,Rafa,Casa Nordestina,Catete,Lasanha,prato,26.37,5
+761,Fernanda,Trem da Tijuca,Tijuca,Água sem Gás,bebida,5.61,4
+762,João,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,8.51,2
+763,Bruno,Veg & Tal,Copacabana,Cerveja Long Neck,bebida,18.77,1
+764,Luis,Veg & Tal,Copacabana,Strogonoff,prato,58.74,3
+765,Carla,Empório das Massas,Ipanema,Feijoada,prato,46.15,3
+766,Fernanda,Sabor & Cia,Rio Comprido,Chá Gelado,bebida,19.59,2
+767,Bruno,Rio Sushi,Flamengo,Água sem Gás,bebida,12.3,4
+768,Fernanda,Borogodó Lanches,Centro,Lasanha,prato,26.62,1
+769,Bruno,Cantinho Mineiro,Laranjeiras,Cheeseburger,prato,27.48,3
+770,Fernanda,Sabor & Cia,Rio Comprido,Feijoada,prato,52.45,1
+771,Paula,Bistrô Carioca,Leblon,Guaraná,bebida,13.86,4
+772,Luis,La Pasta,Botafogo,Cheeseburger,prato,42.94,2
+773,Rafa,Casa Nordestina,Catete,Yakissoba,prato,25.87,2
+774,Carla,Trem da Tijuca,Tijuca,Milkshake de Chocolate,bebida,19.54,1
+775,Carla,Sabor & Cia,Rio Comprido,Lasanha,prato,44.26,4
+776,Paula,Trem da Tijuca,Tijuca,Salada Caesar,prato,36.43,2
+777,Fernanda,Trem da Tijuca,Tijuca,Suco de Uva,bebida,15.86,3
+778,Paula,Empório das Massas,Ipanema,Pizza Mussarela,prato,35.13,2
+779,Ana,Borogodó Lanches,Centro,Risoto de Camarão,prato,54.38,5
+780,Pedro,Trem da Tijuca,Tijuca,Cheeseburger,prato,39.03,5
+781,Fernanda,Borogodó Lanches,Centro,Hambúrguer da Casa,prato,39.29,2
+782,Fernanda,Casa Nordestina,Catete,Tapioca de Queijo,prato,47.14,4
+783,Bruno,Rio Sushi,Flamengo,Refrigerante Lata,bebida,15.46,4
+784,João,Bistrô Carioca,Leblon,Água sem Gás,bebida,13.84,5
+785,Ana,Rio Sushi,Flamengo,Pizza Calabresa,prato,39.09,2
+786,Ana,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,7.84,1
+787,Fernanda,Casa Nordestina,Catete,Risoto de Camarão,prato,20.29,2
+788,Marina,Rio Sushi,Flamengo,Suco de Laranja,bebida,7.32,5
+789,Carla,Cantinho Mineiro,Laranjeiras,Milkshake de Chocolate,bebida,10.48,3
+790,Pedro,La Pasta,Botafogo,Café Expresso,bebida,16.76,4
+791,Rafa,Veg & Tal,Copacabana,Água com Gás,bebida,19.83,5
+792,Marina,Rio Sushi,Flamengo,Salada Caesar,prato,54.55,1
+793,João,Bistrô Carioca,Leblon,Hambúrguer da Casa,prato,28.58,4
+794,Marina,Casa Nordestina,Catete,Cheeseburger,prato,35.56,1
+795,Ana,Trem da Tijuca,Tijuca,Milkshake de Chocolate,bebida,11.53,1
+796,Carla,La Pasta,Botafogo,Suco de Laranja,bebida,14.14,4
+797,Pedro,Empório das Massas,Ipanema,Milkshake de Chocolate,bebida,5.86,2
+798,Paula,Bistrô Carioca,Leblon,Pizza Mussarela,prato,54.02,5
+799,Carla,La Pasta,Botafogo,Tapioca de Queijo,prato,43.98,5
+800,João,Empório das Massas,Ipanema,Nhoque ao Sugo,prato,21.44,2
+801,Luis,Trem da Tijuca,Tijuca,Pizza Calabresa,prato,51.19,3
+802,Pedro,Rio Sushi,Flamengo,Risoto de Camarão,prato,20.61,1
+803,Ana,Casa Nordestina,Catete,Café Expresso,bebida,18.73,3
+804,Marina,Cantinho Mineiro,Laranjeiras,Yakissoba,prato,58.52,4
+805,Pedro,Empório das Massas,Ipanema,Pizza Calabresa,prato,27.0,5
+806,Ana,Casa Nordestina,Catete,Risoto de Camarão,prato,31.77,1
+807,Bruno,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,19.49,5
+808,Paula,La Pasta,Botafogo,Cerveja Long Neck,bebida,15.22,5
+809,Luis,Bistrô Carioca,Leblon,Pizza Calabresa,prato,22.7,2
+810,João,Veg & Tal,Copacabana,Água sem Gás,bebida,12.75,1
+811,Carla,La Pasta,Botafogo,Suco de Laranja,bebida,10.98,3
+812,Ana,Casa Nordestina,Catete,Lasanha,prato,32.55,2
+813,Fernanda,Cantinho Mineiro,Laranjeiras,Strogonoff,prato,47.32,2
+814,Paula,La Pasta,Botafogo,Strogonoff,prato,29.68,3
+815,João,La Pasta,Botafogo,Salada Caesar,prato,29.99,5
+816,Marina,Trem da Tijuca,Tijuca,Hambúrguer da Casa,prato,56.81,4
+817,Fernanda,Borogodó Lanches,Centro,Salada Caesar,prato,39.29,5
+818,Marina,Bistrô Carioca,Leblon,Cerveja Long Neck,bebida,7.74,5
+819,Carla,Rio Sushi,Flamengo,Tapioca de Queijo,prato,43.07,1
+820,Bruno,Rio Sushi,Flamengo,Café Expresso,bebida,5.49,3
+821,Pedro,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,15.47,4
+822,Marina,Borogodó Lanches,Centro,Nhoque ao Sugo,prato,28.43,5
+823,Ana,Veg & Tal,Copacabana,Milkshake de Chocolate,bebida,17.93,2
+824,Bruno,Cantinho Mineiro,Laranjeiras,Pizza Calabresa,prato,38.85,5
+825,Marina,Veg & Tal,Copacabana,Lasanha,prato,36.96,4
+826,Marina,Veg & Tal,Copacabana,Água com Gás,bebida,11.76,5
+827,Rafa,Empório das Massas,Ipanema,Salada Caesar,prato,23.99,3
+828,João,Casa Nordestina,Catete,Chá Gelado,bebida,7.94,2
+829,Paula,Borogodó Lanches,Centro,Feijoada,prato,39.98,5
+830,Bruno,Veg & Tal,Copacabana,Água com Gás,bebida,8.76,5
+831,Luis,Rio Sushi,Flamengo,Strogonoff,prato,26.53,2
+832,Carla,Bistrô Carioca,Leblon,Lasanha,prato,49.78,3
+833,Marina,Veg & Tal,Copacabana,Água sem Gás,bebida,5.3,1
+834,Marina,Empório das Massas,Ipanema,Yakissoba,prato,43.04,5
+835,Rafa,Cantinho Mineiro,Laranjeiras,Água sem Gás,bebida,15.1,4
+836,Paula,Sabor & Cia,Rio Comprido,Milkshake de Chocolate,bebida,9.3,2
+837,Rafa,Veg & Tal,Copacabana,Milkshake de Chocolate,bebida,13.57,1
+838,Ana,Trem da Tijuca,Tijuca,Guaraná,bebida,9.7,3
+839,Carla,Empório das Massas,Ipanema,Água com Gás,bebida,18.32,3
+840,Fernanda,Casa Nordestina,Catete,Chá Gelado,bebida,7.51,1
+841,Rafa,La Pasta,Botafogo,Suco de Laranja,bebida,8.16,4
+842,Ana,Sabor & Cia,Rio Comprido,Lasanha,prato,41.94,1
+843,Pedro,Casa Nordestina,Catete,Hambúrguer da Casa,prato,30.5,2
+844,Ana,Rio Sushi,Flamengo,Guaraná,bebida,8.71,3
+845,Paula,Trem da Tijuca,Tijuca,Risoto de Camarão,prato,53.54,1
+846,Luis,Veg & Tal,Copacabana,Cerveja Long Neck,bebida,12.01,5
+847,Carla,Casa Nordestina,Catete,Suco de Uva,bebida,19.54,5
+848,Rafa,Empório das Massas,Ipanema,Milkshake de Chocolate,bebida,11.52,5
+849,Carla,Veg & Tal,Copacabana,Café Expresso,bebida,8.41,1
+850,Paula,Cantinho Mineiro,Laranjeiras,Chá Gelado,bebida,8.9,3
+851,Luis,Borogodó Lanches,Centro,Filé de Frango,prato,31.47,5
+852,Luis,Bistrô Carioca,Leblon,Água com Gás,bebida,5.14,4
+853,Carla,Empório das Massas,Ipanema,Tapioca de Queijo,prato,20.29,3
+854,João,Rio Sushi,Flamengo,Chá Gelado,bebida,8.75,4
+855,Pedro,La Pasta,Botafogo,Suco de Laranja,bebida,11.33,2
+856,Bruno,Empório das Massas,Ipanema,Água com Gás,bebida,14.73,5
+857,Carla,Rio Sushi,Flamengo,Salada Caesar,prato,22.74,2
+858,Carla,Sabor & Cia,Rio Comprido,Milkshake de Chocolate,bebida,11.79,5
+859,Paula,La Pasta,Botafogo,Refrigerante Lata,bebida,7.28,5
+860,Luis,Trem da Tijuca,Tijuca,Pizza Calabresa,prato,30.77,4
+861,Luis,La Pasta,Botafogo,Cheeseburger,prato,20.59,2
+862,Marina,Rio Sushi,Flamengo,Cerveja Long Neck,bebida,19.97,4
+863,Luis,Veg & Tal,Copacabana,Salada Caesar,prato,50.02,2
+864,Luis,Cantinho Mineiro,Laranjeiras,Suco de Laranja,bebida,13.15,2
+865,João,Cantinho Mineiro,Laranjeiras,Refrigerante Lata,bebida,6.83,2
+866,Pedro,Bistrô Carioca,Leblon,Strogonoff,prato,59.78,2
+867,Paula,Sabor & Cia,Rio Comprido,Lasanha,prato,35.56,3
+868,Marina,Trem da Tijuca,Tijuca,Strogonoff,prato,57.5,5
+869,Ana,Cantinho Mineiro,Laranjeiras,Água com Gás,bebida,7.98,1
+870,João,Sabor & Cia,Rio Comprido,Nhoque ao Sugo,prato,37.37,1
+871,Rafa,Cantinho Mineiro,Laranjeiras,Feijoada,prato,51.57,1
+872,Luis,Empório das Massas,Ipanema,Milkshake de Chocolate,bebida,7.32,1
+873,João,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,15.29,3
+874,Luis,Borogodó Lanches,Centro,Suco de Uva,bebida,15.52,1
+875,Rafa,Bistrô Carioca,Leblon,Filé de Frango,prato,59.27,3
+876,Paula,La Pasta,Botafogo,Strogonoff,prato,35.11,2
+877,Carla,Borogodó Lanches,Centro,Cerveja Long Neck,bebida,13.39,5
+878,Paula,La Pasta,Botafogo,Risoto de Camarão,prato,33.91,4
+879,Carla,Empório das Massas,Ipanema,Hambúrguer da Casa,prato,41.25,4
+880,Carla,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,5.01,5
+881,Pedro,Trem da Tijuca,Tijuca,Yakissoba,prato,54.27,5
+882,João,Veg & Tal,Copacabana,Nhoque ao Sugo,prato,58.69,4
+883,João,Casa Nordestina,Catete,Café Expresso,bebida,7.31,3
+884,Marina,Rio Sushi,Flamengo,Suco de Laranja,bebida,6.44,1
+885,Luis,Trem da Tijuca,Tijuca,Salada Caesar,prato,21.25,1
+886,Paula,La Pasta,Botafogo,Prato Feito,prato,42.84,4
+887,Paula,Casa Nordestina,Catete,Refrigerante Lata,bebida,10.5,5
+888,Ana,Borogodó Lanches,Centro,Nhoque ao Sugo,prato,39.66,1
+889,Paula,Borogodó Lanches,Centro,Café Expresso,bebida,16.15,4
+890,Marina,Borogodó Lanches,Centro,Café Expresso,bebida,5.61,1
+891,Carla,Sabor & Cia,Rio Comprido,Risoto de Camarão,prato,23.88,2
+892,Bruno,Rio Sushi,Flamengo,Pizza Mussarela,prato,41.05,2
+893,Fernanda,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,16.49,5
+894,Marina,Bistrô Carioca,Leblon,Suco de Laranja,bebida,7.5,2
+895,Bruno,Rio Sushi,Flamengo,Suco de Uva,bebida,13.01,5
+896,Paula,Veg & Tal,Copacabana,Café Expresso,bebida,19.87,3
+897,Marina,Rio Sushi,Flamengo,Água sem Gás,bebida,14.13,5
+898,Bruno,La Pasta,Botafogo,Café Expresso,bebida,18.89,3
+899,Marina,Bistrô Carioca,Leblon,Chá Gelado,bebida,5.0,1
+900,Carla,Empório das Massas,Ipanema,Risoto de Camarão,prato,25.4,3
+901,Luis,Cantinho Mineiro,Laranjeiras,Pizza Mussarela,prato,54.23,1
+902,Carla,Casa Nordestina,Catete,Hambúrguer da Casa,prato,21.51,3
+903,Rafa,Trem da Tijuca,Tijuca,Água sem Gás,bebida,18.34,2
+904,João,Cantinho Mineiro,Laranjeiras,Suco de Laranja,bebida,13.56,5
+905,João,Sabor & Cia,Rio Comprido,Cerveja Long Neck,bebida,7.59,5
+906,Ana,Empório das Massas,Ipanema,Refrigerante Lata,bebida,15.96,5
+907,Pedro,Sabor & Cia,Rio Comprido,Tapioca de Queijo,prato,33.38,4
+908,Pedro,Sabor & Cia,Rio Comprido,Strogonoff,prato,46.11,5
+909,Luis,Rio Sushi,Flamengo,Pizza Calabresa,prato,40.98,3
+910,Bruno,Empório das Massas,Ipanema,Filé de Frango,prato,40.1,2
+911,Rafa,Borogodó Lanches,Centro,Cerveja Long Neck,bebida,16.29,5
+912,Bruno,Sabor & Cia,Rio Comprido,Feijoada,prato,31.59,4
+913,Rafa,Trem da Tijuca,Tijuca,Suco de Laranja,bebida,12.14,1
+914,Bruno,Rio Sushi,Flamengo,Suco de Laranja,bebida,10.98,4
+915,Rafa,Trem da Tijuca,Tijuca,Café Expresso,bebida,7.97,4
+916,Fernanda,La Pasta,Botafogo,Pizza Mussarela,prato,22.87,4
+917,Marina,Empório das Massas,Ipanema,Hambúrguer da Casa,prato,46.87,4
+918,Marina,Veg & Tal,Copacabana,Filé de Frango,prato,33.78,1
+919,Carla,Trem da Tijuca,Tijuca,Milkshake de Chocolate,bebida,17.32,4
+920,Fernanda,Trem da Tijuca,Tijuca,Refrigerante Lata,bebida,18.86,2
+921,João,Veg & Tal,Copacabana,Tapioca de Queijo,prato,49.14,1
+922,Ana,Borogodó Lanches,Centro,Yakissoba,prato,57.07,3
+923,Luis,Veg & Tal,Copacabana,Pizza Calabresa,prato,38.0,1
+924,Marina,La Pasta,Botafogo,Pizza Mussarela,prato,41.86,3
+925,Bruno,Bistrô Carioca,Leblon,Strogonoff,prato,47.95,1
+926,Pedro,Empório das Massas,Ipanema,Pizza Calabresa,prato,26.81,3
+927,João,Empório das Massas,Ipanema,Refrigerante Lata,bebida,11.97,1
+928,Ana,Rio Sushi,Flamengo,Água sem Gás,bebida,17.96,1
+929,Carla,Rio Sushi,Flamengo,Feijoada,prato,40.34,1
+930,Marina,Bistrô Carioca,Leblon,Cheeseburger,prato,27.96,4
+931,Bruno,Borogodó Lanches,Centro,Pizza Mussarela,prato,56.89,3
+932,Marina,Bistrô Carioca,Leblon,Suco de Uva,bebida,5.28,3
+933,Marina,Cantinho Mineiro,Laranjeiras,Risoto de Camarão,prato,31.04,1
+934,Carla,Rio Sushi,Flamengo,Risoto de Camarão,prato,57.96,2
+935,Rafa,Veg & Tal,Copacabana,Suco de Uva,bebida,6.32,4
+936,Bruno,Empório das Massas,Ipanema,Feijoada,prato,29.61,2
+937,Pedro,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,13.13,2
+938,Rafa,Empório das Massas,Ipanema,Salada Caesar,prato,25.52,5
+939,Rafa,Rio Sushi,Flamengo,Nhoque ao Sugo,prato,57.32,2
+940,Marina,Sabor & Cia,Rio Comprido,Cheeseburger,prato,32.7,2
+941,Luis,Veg & Tal,Copacabana,Chá Gelado,bebida,9.55,3
+942,Rafa,La Pasta,Botafogo,Cheeseburger,prato,27.39,5
+943,Fernanda,Cantinho Mineiro,Laranjeiras,Yakissoba,prato,29.29,1
+944,Marina,Sabor & Cia,Rio Comprido,Suco de Uva,bebida,12.53,5
+945,Paula,Veg & Tal,Copacabana,Salada Caesar,prato,35.5,4
+946,Rafa,Trem da Tijuca,Tijuca,Pizza Mussarela,prato,21.29,1
+947,Carla,Rio Sushi,Flamengo,Strogonoff,prato,46.85,2
+948,João,Sabor & Cia,Rio Comprido,Lasanha,prato,54.69,4
+949,Marina,Bistrô Carioca,Leblon,Feijoada,prato,36.19,1
+950,Fernanda,Rio Sushi,Flamengo,Chá Gelado,bebida,14.17,5
+951,Fernanda,Casa Nordestina,Catete,Risoto de Camarão,prato,24.37,4
+952,Luis,La Pasta,Botafogo,Refrigerante Lata,bebida,13.37,5
+953,Luis,La Pasta,Botafogo,Cerveja Long Neck,bebida,10.97,3
+954,Carla,Bistrô Carioca,Leblon,Feijoada,prato,31.78,1
+955,Bruno,Trem da Tijuca,Tijuca,Cerveja Long Neck,bebida,6.36,5
+956,Ana,Trem da Tijuca,Tijuca,Feijoada,prato,36.54,4
+957,Luis,Trem da Tijuca,Tijuca,Milkshake de Chocolate,bebida,18.45,2
+958,Paula,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,15.38,2
+959,Ana,Sabor & Cia,Rio Comprido,Strogonoff,prato,37.98,3
+960,Ana,Casa Nordestina,Catete,Café Expresso,bebida,14.18,2
+961,Pedro,Casa Nordestina,Catete,Refrigerante Lata,bebida,16.52,3
+962,Fernanda,Trem da Tijuca,Tijuca,Salada Caesar,prato,25.78,1
+963,Pedro,Cantinho Mineiro,Laranjeiras,Cerveja Long Neck,bebida,9.33,2
+964,Ana,Trem da Tijuca,Tijuca,Prato Feito,prato,44.9,3
+965,Luis,Bistrô Carioca,Leblon,Cerveja Long Neck,bebida,13.15,1
+966,Fernanda,Bistrô Carioca,Leblon,Pizza Mussarela,prato,43.55,4
+967,Paula,Rio Sushi,Flamengo,Suco de Laranja,bebida,14.02,1
+968,João,Casa Nordestina,Catete,Milkshake de Chocolate,bebida,14.43,2
+969,Luis,Trem da Tijuca,Tijuca,Prato Feito,prato,46.13,1
+970,Rafa,Borogodó Lanches,Centro,Água sem Gás,bebida,18.81,1
+971,Ana,Rio Sushi,Flamengo,Cheeseburger,prato,46.88,5
+972,Fernanda,Empório das Massas,Ipanema,Lasanha,prato,49.97,3
+973,Luis,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,10.53,4
+974,Ana,Rio Sushi,Flamengo,Pizza Calabresa,prato,38.83,1
+975,Carla,Veg & Tal,Copacabana,Café Expresso,bebida,8.15,2
+976,Fernanda,Borogodó Lanches,Centro,Yakissoba,prato,49.19,5
+977,Ana,Bistrô Carioca,Leblon,Chá Gelado,bebida,14.13,3
+978,Carla,Casa Nordestina,Catete,Suco de Uva,bebida,14.21,4
+979,Bruno,Bistrô Carioca,Leblon,Suco de Uva,bebida,18.25,2
+980,Carla,La Pasta,Botafogo,Hambúrguer da Casa,prato,20.96,1
+981,João,Empório das Massas,Ipanema,Chá Gelado,bebida,5.68,3
+982,Bruno,La Pasta,Botafogo,Nhoque ao Sugo,prato,28.05,3
+983,Carla,Sabor & Cia,Rio Comprido,Água com Gás,bebida,12.6,3
+984,Luis,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,10.94,5
+985,Fernanda,Borogodó Lanches,Centro,Pizza Mussarela,prato,33.22,3
+986,Paula,Bistrô Carioca,Leblon,Nhoque ao Sugo,prato,25.43,2
+987,Paula,Casa Nordestina,Catete,Cerveja Long Neck,bebida,16.76,4
+988,Luis,Casa Nordestina,Catete,Milkshake de Chocolate,bebida,15.87,3
+989,Bruno,Casa Nordestina,Catete,Pizza Mussarela,prato,43.1,3
+990,Marina,Sabor & Cia,Rio Comprido,Pizza Calabresa,prato,53.63,3
+991,Pedro,Casa Nordestina,Catete,Yakissoba,prato,44.23,2
+992,Fernanda,Sabor & Cia,Rio Comprido,Água sem Gás,bebida,15.65,3
+993,Pedro,Sabor & Cia,Rio Comprido,Guaraná,bebida,10.57,3
+994,João,Casa Nordestina,Catete,Suco de Uva,bebida,6.68,1
+995,João,Sabor & Cia,Rio Comprido,Café Expresso,bebida,5.37,4
+996,Bruno,Trem da Tijuca,Tijuca,Filé de Frango,prato,56.95,5
+997,Carla,Veg & Tal,Copacabana,Tapioca de Queijo,prato,54.87,5
+998,Rafa,La Pasta,Botafogo,Lasanha,prato,35.5,5
+999,Ana,Borogodó Lanches,Centro,Refrigerante Lata,bebida,15.31,5
+1000,Ana,Veg & Tal,Copacabana,Refrigerante Lata,bebida,6.55,3
