@@ -1,0 +1,58 @@
+titulo;genero;ano;preco;avaliacao
+Interstellar;Ficção;2014;29.90;8.6
+The Dark Knight;Ação;2008;24.90;9.0
+La La Land;Musical;2016;19.90;8.0
+Parasite;Drama;2019;27.50;8.6
+Mad Max: Fury Road;Ação;2015;21.90;8.1
+Arrival;Ficção;2016;18.00;7.9
+Whiplash;Drama;2014;22.00;8.5
+Star Trek;Ficção;2009;17.90;7.9
+Star Wars: A New Hope;Ficção;1977;15.90;8.6
+A Star Is Born;Drama;2018;23.90;7.7
+Midnight in Paris;Romance;2011;16.50;7.6
+Nightcrawler;Suspense;2014;18.90;7.8
+Night at the Museum;Comédia;2006;14.90;6.4
+Green Book;Drama;2018;19.90;8.2
+City of God;Drama;2002;21.50;8.6
+Zootopia;Animação;2016;13.90;8.0
+The King’s Speech;Drama;2010;17.50;8.0
+The Lion King;Animação;1994;12.90;8.5
+The Lord of the Rings: The Two Towers;Fantasia;2002;27.90;8.8
+The Lord of the Rings: The Fellowship of the Ring;Fantasia;2001;26.90;8.8
+The Lord of the Rings: The Return of the King;Fantasia;2003;28.90;9.0
+Road to Perdition;Drama;2002;14.90;7.7
+The Long Road Home;Drama;2017;11.90;6.9
+Road House;Ação;1989;10.90;6.7
+Love Actually;Romance;2003;13.90;7.6
+Punch-Drunk Love;Romance;2002;12.50;7.3
+Shakespeare in Love;Romance;1998;11.90;7.1
+Lightyear;Animação;2022;19.90;6.2
+Dark City;Ficção;1998;12.90;7.6
+In the Mood for Love;Romance;2000;16.90;8.1
+The Imitation Game;Drama;2014;18.50;8.0
+1917;Guerra;2019;20.90;8.3
+War Horse;Guerra;2011;14.50;7.2
+Hacksaw Ridge;Guerra;2016;22.90;8.1
+Spider-Man: Homecoming;Ação;2017;24.90;7.4
+Home Alone;Comédia;1990;9.90;7.7
+No Country for Old Men;Suspense;2007;17.90;8.2
+The Revenant;Aventura;2015;23.90;8.0
+Whisper of the Heart;Animação;1995;11.90;7.8
+Blade Runner 2049;Ficção;2017;25.90;8.0
+Her;Romance;2013;15.90;8.0
+The Social Network;Drama;2010;16.90;7.7
+The Girl with the Dragon Tattoo;Suspense;2011;18.90;7.8
+Gone Girl;Suspense;2014;17.90;8.1
+Birdman;Comédia;2014;16.90;7.7
+The Irishman;Drama;2019;19.90;7.8
+Joker;Drama;2019;21.90;8.4
+Moonlight;Drama;2016;15.90;7.4
+Spotlight;Drama;2015;16.90;8.1
+Dreamgirls;Musical;2006;12.90;6.6
+Inception;Ficção;2010;24.90;8.8
+The Big Short;Drama;2015;17.90;7.8
+Manchester by the Sea;Drama;2016;14.90;7.8
+Dune;Ficção;2021;26.90;8.0
+Fight Club;Drama;1999;14.90;8.8
+The Grand Budapest Hotel;Comédia;2014;15.90;8.1
+
